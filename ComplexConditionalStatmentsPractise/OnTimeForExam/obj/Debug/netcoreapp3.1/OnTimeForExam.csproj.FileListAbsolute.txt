@@ -1,0 +1,12 @@
+D:\SoftUniC#June21\ComplexConditionalStatmentsPractise\OnTimeForExam\bin\Debug\netcoreapp3.1\OnTimeForExam.exe
+D:\SoftUniC#June21\ComplexConditionalStatmentsPractise\OnTimeForExam\bin\Debug\netcoreapp3.1\OnTimeForExam.deps.json
+D:\SoftUniC#June21\ComplexConditionalStatmentsPractise\OnTimeForExam\bin\Debug\netcoreapp3.1\OnTimeForExam.runtimeconfig.json
+D:\SoftUniC#June21\ComplexConditionalStatmentsPractise\OnTimeForExam\bin\Debug\netcoreapp3.1\OnTimeForExam.runtimeconfig.dev.json
+D:\SoftUniC#June21\ComplexConditionalStatmentsPractise\OnTimeForExam\bin\Debug\netcoreapp3.1\OnTimeForExam.dll
+D:\SoftUniC#June21\ComplexConditionalStatmentsPractise\OnTimeForExam\bin\Debug\netcoreapp3.1\OnTimeForExam.pdb
+D:\SoftUniC#June21\ComplexConditionalStatmentsPractise\OnTimeForExam\obj\Debug\netcoreapp3.1\OnTimeForExam.AssemblyInfoInputs.cache
+D:\SoftUniC#June21\ComplexConditionalStatmentsPractise\OnTimeForExam\obj\Debug\netcoreapp3.1\OnTimeForExam.AssemblyInfo.cs
+D:\SoftUniC#June21\ComplexConditionalStatmentsPractise\OnTimeForExam\obj\Debug\netcoreapp3.1\OnTimeForExam.csproj.CoreCompileInputs.cache
+D:\SoftUniC#June21\ComplexConditionalStatmentsPractise\OnTimeForExam\obj\Debug\netcoreapp3.1\OnTimeForExam.dll
+D:\SoftUniC#June21\ComplexConditionalStatmentsPractise\OnTimeForExam\obj\Debug\netcoreapp3.1\OnTimeForExam.pdb
+D:\SoftUniC#June21\ComplexConditionalStatmentsPractise\OnTimeForExam\obj\Debug\netcoreapp3.1\OnTimeForExam.genruntimeconfig.cache

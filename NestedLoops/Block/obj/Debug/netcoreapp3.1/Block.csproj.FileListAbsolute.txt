@@ -1,0 +1,13 @@
+D:\SoftUniC#June21\NestedLoops\Block\bin\Debug\netcoreapp3.1\Block.exe
+D:\SoftUniC#June21\NestedLoops\Block\bin\Debug\netcoreapp3.1\Block.deps.json
+D:\SoftUniC#June21\NestedLoops\Block\bin\Debug\netcoreapp3.1\Block.runtimeconfig.json
+D:\SoftUniC#June21\NestedLoops\Block\bin\Debug\netcoreapp3.1\Block.runtimeconfig.dev.json
+D:\SoftUniC#June21\NestedLoops\Block\bin\Debug\netcoreapp3.1\Block.dll
+D:\SoftUniC#June21\NestedLoops\Block\bin\Debug\netcoreapp3.1\Block.pdb
+D:\SoftUniC#June21\NestedLoops\Block\obj\Debug\netcoreapp3.1\Block.AssemblyInfoInputs.cache
+D:\SoftUniC#June21\NestedLoops\Block\obj\Debug\netcoreapp3.1\Block.AssemblyInfo.cs
+D:\SoftUniC#June21\NestedLoops\Block\obj\Debug\netcoreapp3.1\Block.csproj.CoreCompileInputs.cache
+D:\SoftUniC#June21\NestedLoops\Block\obj\Debug\netcoreapp3.1\Block.dll
+D:\SoftUniC#June21\NestedLoops\Block\obj\Debug\netcoreapp3.1\Block.pdb
+D:\SoftUniC#June21\NestedLoops\Block\obj\Debug\netcoreapp3.1\Block.genruntimeconfig.cache
+D:\SoftUniC#June21\NestedLoops\Block\obj\Debug\netcoreapp3.1\Block.csprojAssemblyReference.cache

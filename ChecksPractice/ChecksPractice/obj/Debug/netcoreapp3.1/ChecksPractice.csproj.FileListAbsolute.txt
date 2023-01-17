@@ -1,0 +1,13 @@
+D:\SoftUniC#June21\ChecksPractice\ChecksPractice\bin\Debug\netcoreapp3.1\ChecksPractice.exe
+D:\SoftUniC#June21\ChecksPractice\ChecksPractice\bin\Debug\netcoreapp3.1\ChecksPractice.deps.json
+D:\SoftUniC#June21\ChecksPractice\ChecksPractice\bin\Debug\netcoreapp3.1\ChecksPractice.runtimeconfig.json
+D:\SoftUniC#June21\ChecksPractice\ChecksPractice\bin\Debug\netcoreapp3.1\ChecksPractice.runtimeconfig.dev.json
+D:\SoftUniC#June21\ChecksPractice\ChecksPractice\bin\Debug\netcoreapp3.1\ChecksPractice.dll
+D:\SoftUniC#June21\ChecksPractice\ChecksPractice\bin\Debug\netcoreapp3.1\ChecksPractice.pdb
+D:\SoftUniC#June21\ChecksPractice\ChecksPractice\obj\Debug\netcoreapp3.1\ChecksPractice.csprojAssemblyReference.cache
+D:\SoftUniC#June21\ChecksPractice\ChecksPractice\obj\Debug\netcoreapp3.1\ChecksPractice.AssemblyInfoInputs.cache
+D:\SoftUniC#June21\ChecksPractice\ChecksPractice\obj\Debug\netcoreapp3.1\ChecksPractice.AssemblyInfo.cs
+D:\SoftUniC#June21\ChecksPractice\ChecksPractice\obj\Debug\netcoreapp3.1\ChecksPractice.csproj.CoreCompileInputs.cache
+D:\SoftUniC#June21\ChecksPractice\ChecksPractice\obj\Debug\netcoreapp3.1\ChecksPractice.dll
+D:\SoftUniC#June21\ChecksPractice\ChecksPractice\obj\Debug\netcoreapp3.1\ChecksPractice.pdb
+D:\SoftUniC#June21\ChecksPractice\ChecksPractice\obj\Debug\netcoreapp3.1\ChecksPractice.genruntimeconfig.cache

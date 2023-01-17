@@ -1,0 +1,13 @@
+D:\SoftUniC#June21\NestedLoops\SumOfTwoNums\bin\Debug\netcoreapp3.1\SumOfTwoNums.exe
+D:\SoftUniC#June21\NestedLoops\SumOfTwoNums\bin\Debug\netcoreapp3.1\SumOfTwoNums.deps.json
+D:\SoftUniC#June21\NestedLoops\SumOfTwoNums\bin\Debug\netcoreapp3.1\SumOfTwoNums.runtimeconfig.json
+D:\SoftUniC#June21\NestedLoops\SumOfTwoNums\bin\Debug\netcoreapp3.1\SumOfTwoNums.runtimeconfig.dev.json
+D:\SoftUniC#June21\NestedLoops\SumOfTwoNums\bin\Debug\netcoreapp3.1\SumOfTwoNums.dll
+D:\SoftUniC#June21\NestedLoops\SumOfTwoNums\bin\Debug\netcoreapp3.1\SumOfTwoNums.pdb
+D:\SoftUniC#June21\NestedLoops\SumOfTwoNums\obj\Debug\netcoreapp3.1\SumOfTwoNums.csprojAssemblyReference.cache
+D:\SoftUniC#June21\NestedLoops\SumOfTwoNums\obj\Debug\netcoreapp3.1\SumOfTwoNums.AssemblyInfoInputs.cache
+D:\SoftUniC#June21\NestedLoops\SumOfTwoNums\obj\Debug\netcoreapp3.1\SumOfTwoNums.AssemblyInfo.cs
+D:\SoftUniC#June21\NestedLoops\SumOfTwoNums\obj\Debug\netcoreapp3.1\SumOfTwoNums.csproj.CoreCompileInputs.cache
+D:\SoftUniC#June21\NestedLoops\SumOfTwoNums\obj\Debug\netcoreapp3.1\SumOfTwoNums.dll
+D:\SoftUniC#June21\NestedLoops\SumOfTwoNums\obj\Debug\netcoreapp3.1\SumOfTwoNums.pdb
+D:\SoftUniC#June21\NestedLoops\SumOfTwoNums\obj\Debug\netcoreapp3.1\SumOfTwoNums.genruntimeconfig.cache

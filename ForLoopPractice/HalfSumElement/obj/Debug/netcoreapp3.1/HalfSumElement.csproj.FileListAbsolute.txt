@@ -1,0 +1,13 @@
+D:\SoftUniC#June21\ForLoopPractice\HalfSumElement\bin\Debug\netcoreapp3.1\HalfSumElement.exe
+D:\SoftUniC#June21\ForLoopPractice\HalfSumElement\bin\Debug\netcoreapp3.1\HalfSumElement.deps.json
+D:\SoftUniC#June21\ForLoopPractice\HalfSumElement\bin\Debug\netcoreapp3.1\HalfSumElement.runtimeconfig.json
+D:\SoftUniC#June21\ForLoopPractice\HalfSumElement\bin\Debug\netcoreapp3.1\HalfSumElement.runtimeconfig.dev.json
+D:\SoftUniC#June21\ForLoopPractice\HalfSumElement\bin\Debug\netcoreapp3.1\HalfSumElement.dll
+D:\SoftUniC#June21\ForLoopPractice\HalfSumElement\bin\Debug\netcoreapp3.1\HalfSumElement.pdb
+D:\SoftUniC#June21\ForLoopPractice\HalfSumElement\obj\Debug\netcoreapp3.1\HalfSumElement.csprojAssemblyReference.cache
+D:\SoftUniC#June21\ForLoopPractice\HalfSumElement\obj\Debug\netcoreapp3.1\HalfSumElement.AssemblyInfoInputs.cache
+D:\SoftUniC#June21\ForLoopPractice\HalfSumElement\obj\Debug\netcoreapp3.1\HalfSumElement.AssemblyInfo.cs
+D:\SoftUniC#June21\ForLoopPractice\HalfSumElement\obj\Debug\netcoreapp3.1\HalfSumElement.csproj.CoreCompileInputs.cache
+D:\SoftUniC#June21\ForLoopPractice\HalfSumElement\obj\Debug\netcoreapp3.1\HalfSumElement.dll
+D:\SoftUniC#June21\ForLoopPractice\HalfSumElement\obj\Debug\netcoreapp3.1\HalfSumElement.pdb
+D:\SoftUniC#June21\ForLoopPractice\HalfSumElement\obj\Debug\netcoreapp3.1\HalfSumElement.genruntimeconfig.cache

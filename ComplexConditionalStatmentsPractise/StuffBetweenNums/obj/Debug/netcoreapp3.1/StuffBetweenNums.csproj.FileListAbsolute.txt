@@ -1,0 +1,12 @@
+D:\SoftUniC#June21\ComplexConditionalStatmentsPractise\StuffBetweenNums\bin\Debug\netcoreapp3.1\StuffBetweenNums.exe
+D:\SoftUniC#June21\ComplexConditionalStatmentsPractise\StuffBetweenNums\bin\Debug\netcoreapp3.1\StuffBetweenNums.deps.json
+D:\SoftUniC#June21\ComplexConditionalStatmentsPractise\StuffBetweenNums\bin\Debug\netcoreapp3.1\StuffBetweenNums.runtimeconfig.json
+D:\SoftUniC#June21\ComplexConditionalStatmentsPractise\StuffBetweenNums\bin\Debug\netcoreapp3.1\StuffBetweenNums.runtimeconfig.dev.json
+D:\SoftUniC#June21\ComplexConditionalStatmentsPractise\StuffBetweenNums\bin\Debug\netcoreapp3.1\StuffBetweenNums.dll
+D:\SoftUniC#June21\ComplexConditionalStatmentsPractise\StuffBetweenNums\bin\Debug\netcoreapp3.1\StuffBetweenNums.pdb
+D:\SoftUniC#June21\ComplexConditionalStatmentsPractise\StuffBetweenNums\obj\Debug\netcoreapp3.1\StuffBetweenNums.AssemblyInfoInputs.cache
+D:\SoftUniC#June21\ComplexConditionalStatmentsPractise\StuffBetweenNums\obj\Debug\netcoreapp3.1\StuffBetweenNums.AssemblyInfo.cs
+D:\SoftUniC#June21\ComplexConditionalStatmentsPractise\StuffBetweenNums\obj\Debug\netcoreapp3.1\StuffBetweenNums.csproj.CoreCompileInputs.cache
+D:\SoftUniC#June21\ComplexConditionalStatmentsPractise\StuffBetweenNums\obj\Debug\netcoreapp3.1\StuffBetweenNums.dll
+D:\SoftUniC#June21\ComplexConditionalStatmentsPractise\StuffBetweenNums\obj\Debug\netcoreapp3.1\StuffBetweenNums.pdb
+D:\SoftUniC#June21\ComplexConditionalStatmentsPractise\StuffBetweenNums\obj\Debug\netcoreapp3.1\StuffBetweenNums.genruntimeconfig.cache

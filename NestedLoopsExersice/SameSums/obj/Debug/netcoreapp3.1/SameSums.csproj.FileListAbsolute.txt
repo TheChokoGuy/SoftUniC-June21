@@ -1,0 +1,13 @@
+D:\SoftUniC#June21\NestedLoopsExersice\SameSums\bin\Debug\netcoreapp3.1\SameSums.exe
+D:\SoftUniC#June21\NestedLoopsExersice\SameSums\bin\Debug\netcoreapp3.1\SameSums.deps.json
+D:\SoftUniC#June21\NestedLoopsExersice\SameSums\bin\Debug\netcoreapp3.1\SameSums.runtimeconfig.json
+D:\SoftUniC#June21\NestedLoopsExersice\SameSums\bin\Debug\netcoreapp3.1\SameSums.runtimeconfig.dev.json
+D:\SoftUniC#June21\NestedLoopsExersice\SameSums\bin\Debug\netcoreapp3.1\SameSums.dll
+D:\SoftUniC#June21\NestedLoopsExersice\SameSums\bin\Debug\netcoreapp3.1\SameSums.pdb
+D:\SoftUniC#June21\NestedLoopsExersice\SameSums\obj\Debug\netcoreapp3.1\SameSums.csprojAssemblyReference.cache
+D:\SoftUniC#June21\NestedLoopsExersice\SameSums\obj\Debug\netcoreapp3.1\SameSums.AssemblyInfoInputs.cache
+D:\SoftUniC#June21\NestedLoopsExersice\SameSums\obj\Debug\netcoreapp3.1\SameSums.AssemblyInfo.cs
+D:\SoftUniC#June21\NestedLoopsExersice\SameSums\obj\Debug\netcoreapp3.1\SameSums.csproj.CoreCompileInputs.cache
+D:\SoftUniC#June21\NestedLoopsExersice\SameSums\obj\Debug\netcoreapp3.1\SameSums.dll
+D:\SoftUniC#June21\NestedLoopsExersice\SameSums\obj\Debug\netcoreapp3.1\SameSums.pdb
+D:\SoftUniC#June21\NestedLoopsExersice\SameSums\obj\Debug\netcoreapp3.1\SameSums.genruntimeconfig.cache

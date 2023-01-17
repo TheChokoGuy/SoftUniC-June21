@@ -1,0 +1,13 @@
+D:\SoftUniC#June21\ChecksAndConditionalStatements\CheckForExcellentGrade\bin\Debug\netcoreapp3.1\CheckForExcellentGrade.exe
+D:\SoftUniC#June21\ChecksAndConditionalStatements\CheckForExcellentGrade\bin\Debug\netcoreapp3.1\CheckForExcellentGrade.deps.json
+D:\SoftUniC#June21\ChecksAndConditionalStatements\CheckForExcellentGrade\bin\Debug\netcoreapp3.1\CheckForExcellentGrade.runtimeconfig.json
+D:\SoftUniC#June21\ChecksAndConditionalStatements\CheckForExcellentGrade\bin\Debug\netcoreapp3.1\CheckForExcellentGrade.runtimeconfig.dev.json
+D:\SoftUniC#June21\ChecksAndConditionalStatements\CheckForExcellentGrade\bin\Debug\netcoreapp3.1\CheckForExcellentGrade.dll
+D:\SoftUniC#June21\ChecksAndConditionalStatements\CheckForExcellentGrade\bin\Debug\netcoreapp3.1\CheckForExcellentGrade.pdb
+D:\SoftUniC#June21\ChecksAndConditionalStatements\CheckForExcellentGrade\obj\Debug\netcoreapp3.1\CheckForExcellentGrade.csprojAssemblyReference.cache
+D:\SoftUniC#June21\ChecksAndConditionalStatements\CheckForExcellentGrade\obj\Debug\netcoreapp3.1\CheckForExcellentGrade.AssemblyInfoInputs.cache
+D:\SoftUniC#June21\ChecksAndConditionalStatements\CheckForExcellentGrade\obj\Debug\netcoreapp3.1\CheckForExcellentGrade.AssemblyInfo.cs
+D:\SoftUniC#June21\ChecksAndConditionalStatements\CheckForExcellentGrade\obj\Debug\netcoreapp3.1\CheckForExcellentGrade.csproj.CoreCompileInputs.cache
+D:\SoftUniC#June21\ChecksAndConditionalStatements\CheckForExcellentGrade\obj\Debug\netcoreapp3.1\CheckForExcellentGrade.dll
+D:\SoftUniC#June21\ChecksAndConditionalStatements\CheckForExcellentGrade\obj\Debug\netcoreapp3.1\CheckForExcellentGrade.pdb
+D:\SoftUniC#June21\ChecksAndConditionalStatements\CheckForExcellentGrade\obj\Debug\netcoreapp3.1\CheckForExcellentGrade.genruntimeconfig.cache

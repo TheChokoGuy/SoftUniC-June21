@@ -1,0 +1,12 @@
+D:\SoftUniC#June21\SoftUniCSharpPractice1\FishTank\bin\Debug\netcoreapp3.1\FishTank.exe
+D:\SoftUniC#June21\SoftUniCSharpPractice1\FishTank\bin\Debug\netcoreapp3.1\FishTank.deps.json
+D:\SoftUniC#June21\SoftUniCSharpPractice1\FishTank\bin\Debug\netcoreapp3.1\FishTank.runtimeconfig.json
+D:\SoftUniC#June21\SoftUniCSharpPractice1\FishTank\bin\Debug\netcoreapp3.1\FishTank.runtimeconfig.dev.json
+D:\SoftUniC#June21\SoftUniCSharpPractice1\FishTank\bin\Debug\netcoreapp3.1\FishTank.dll
+D:\SoftUniC#June21\SoftUniCSharpPractice1\FishTank\bin\Debug\netcoreapp3.1\FishTank.pdb
+D:\SoftUniC#June21\SoftUniCSharpPractice1\FishTank\obj\Debug\netcoreapp3.1\FishTank.AssemblyInfoInputs.cache
+D:\SoftUniC#June21\SoftUniCSharpPractice1\FishTank\obj\Debug\netcoreapp3.1\FishTank.AssemblyInfo.cs
+D:\SoftUniC#June21\SoftUniCSharpPractice1\FishTank\obj\Debug\netcoreapp3.1\FishTank.csproj.CoreCompileInputs.cache
+D:\SoftUniC#June21\SoftUniCSharpPractice1\FishTank\obj\Debug\netcoreapp3.1\FishTank.dll
+D:\SoftUniC#June21\SoftUniCSharpPractice1\FishTank\obj\Debug\netcoreapp3.1\FishTank.pdb
+D:\SoftUniC#June21\SoftUniCSharpPractice1\FishTank\obj\Debug\netcoreapp3.1\FishTank.genruntimeconfig.cache

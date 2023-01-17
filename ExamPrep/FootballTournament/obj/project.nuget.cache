@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "ca9razHQJ13LbErSoKkU+E/He50J6uBHsN4QjRxQL1g7g91D1NMFp1ut8kKLFIarIjXUzus8tL3ebpkumT9xCA==",
+  "success": true,
+  "projectFilePath": "D:\\Softuni\\SoftUniC#June21\\ExamPrep\\FootballTournament\\FootballTournament.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\gabig\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.22\\microsoft.netcore.app.host.win-x64.3.1.22.nupkg.sha512"
+  ],
+  "logs": []
+}

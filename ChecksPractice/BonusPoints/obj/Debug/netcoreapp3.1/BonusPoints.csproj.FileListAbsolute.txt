@@ -1,0 +1,13 @@
+D:\SoftUniC#June21\ChecksPractice\BonusPoints\bin\Debug\netcoreapp3.1\BonusPoints.exe
+D:\SoftUniC#June21\ChecksPractice\BonusPoints\bin\Debug\netcoreapp3.1\BonusPoints.deps.json
+D:\SoftUniC#June21\ChecksPractice\BonusPoints\bin\Debug\netcoreapp3.1\BonusPoints.runtimeconfig.json
+D:\SoftUniC#June21\ChecksPractice\BonusPoints\bin\Debug\netcoreapp3.1\BonusPoints.runtimeconfig.dev.json
+D:\SoftUniC#June21\ChecksPractice\BonusPoints\bin\Debug\netcoreapp3.1\BonusPoints.dll
+D:\SoftUniC#June21\ChecksPractice\BonusPoints\bin\Debug\netcoreapp3.1\BonusPoints.pdb
+D:\SoftUniC#June21\ChecksPractice\BonusPoints\obj\Debug\netcoreapp3.1\BonusPoints.csprojAssemblyReference.cache
+D:\SoftUniC#June21\ChecksPractice\BonusPoints\obj\Debug\netcoreapp3.1\BonusPoints.AssemblyInfoInputs.cache
+D:\SoftUniC#June21\ChecksPractice\BonusPoints\obj\Debug\netcoreapp3.1\BonusPoints.AssemblyInfo.cs
+D:\SoftUniC#June21\ChecksPractice\BonusPoints\obj\Debug\netcoreapp3.1\BonusPoints.csproj.CoreCompileInputs.cache
+D:\SoftUniC#June21\ChecksPractice\BonusPoints\obj\Debug\netcoreapp3.1\BonusPoints.dll
+D:\SoftUniC#June21\ChecksPractice\BonusPoints\obj\Debug\netcoreapp3.1\BonusPoints.pdb
+D:\SoftUniC#June21\ChecksPractice\BonusPoints\obj\Debug\netcoreapp3.1\BonusPoints.genruntimeconfig.cache

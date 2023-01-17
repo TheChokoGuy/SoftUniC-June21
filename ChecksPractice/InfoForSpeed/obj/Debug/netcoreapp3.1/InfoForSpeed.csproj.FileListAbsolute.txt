@@ -1,0 +1,13 @@
+D:\SoftUniC#June21\ChecksPractice\InfoForSpeed\bin\Debug\netcoreapp3.1\InfoForSpeed.exe
+D:\SoftUniC#June21\ChecksPractice\InfoForSpeed\bin\Debug\netcoreapp3.1\InfoForSpeed.deps.json
+D:\SoftUniC#June21\ChecksPractice\InfoForSpeed\bin\Debug\netcoreapp3.1\InfoForSpeed.runtimeconfig.json
+D:\SoftUniC#June21\ChecksPractice\InfoForSpeed\bin\Debug\netcoreapp3.1\InfoForSpeed.runtimeconfig.dev.json
+D:\SoftUniC#June21\ChecksPractice\InfoForSpeed\bin\Debug\netcoreapp3.1\InfoForSpeed.dll
+D:\SoftUniC#June21\ChecksPractice\InfoForSpeed\bin\Debug\netcoreapp3.1\InfoForSpeed.pdb
+D:\SoftUniC#June21\ChecksPractice\InfoForSpeed\obj\Debug\netcoreapp3.1\InfoForSpeed.AssemblyInfoInputs.cache
+D:\SoftUniC#June21\ChecksPractice\InfoForSpeed\obj\Debug\netcoreapp3.1\InfoForSpeed.AssemblyInfo.cs
+D:\SoftUniC#June21\ChecksPractice\InfoForSpeed\obj\Debug\netcoreapp3.1\InfoForSpeed.csproj.CoreCompileInputs.cache
+D:\SoftUniC#June21\ChecksPractice\InfoForSpeed\obj\Debug\netcoreapp3.1\InfoForSpeed.dll
+D:\SoftUniC#June21\ChecksPractice\InfoForSpeed\obj\Debug\netcoreapp3.1\InfoForSpeed.pdb
+D:\SoftUniC#June21\ChecksPractice\InfoForSpeed\obj\Debug\netcoreapp3.1\InfoForSpeed.genruntimeconfig.cache
+D:\SoftUniC#June21\ChecksPractice\InfoForSpeed\obj\Debug\netcoreapp3.1\InfoForSpeed.csprojAssemblyReference.cache

@@ -1,0 +1,12 @@
+D:\SoftUniC#June21\ForLoop\OddEvenSum\bin\Debug\netcoreapp3.1\OddEvenSum.exe
+D:\SoftUniC#June21\ForLoop\OddEvenSum\bin\Debug\netcoreapp3.1\OddEvenSum.deps.json
+D:\SoftUniC#June21\ForLoop\OddEvenSum\bin\Debug\netcoreapp3.1\OddEvenSum.runtimeconfig.json
+D:\SoftUniC#June21\ForLoop\OddEvenSum\bin\Debug\netcoreapp3.1\OddEvenSum.runtimeconfig.dev.json
+D:\SoftUniC#June21\ForLoop\OddEvenSum\bin\Debug\netcoreapp3.1\OddEvenSum.dll
+D:\SoftUniC#June21\ForLoop\OddEvenSum\bin\Debug\netcoreapp3.1\OddEvenSum.pdb
+D:\SoftUniC#June21\ForLoop\OddEvenSum\obj\Debug\netcoreapp3.1\OddEvenSum.AssemblyInfoInputs.cache
+D:\SoftUniC#June21\ForLoop\OddEvenSum\obj\Debug\netcoreapp3.1\OddEvenSum.AssemblyInfo.cs
+D:\SoftUniC#June21\ForLoop\OddEvenSum\obj\Debug\netcoreapp3.1\OddEvenSum.csproj.CoreCompileInputs.cache
+D:\SoftUniC#June21\ForLoop\OddEvenSum\obj\Debug\netcoreapp3.1\OddEvenSum.dll
+D:\SoftUniC#June21\ForLoop\OddEvenSum\obj\Debug\netcoreapp3.1\OddEvenSum.pdb
+D:\SoftUniC#June21\ForLoop\OddEvenSum\obj\Debug\netcoreapp3.1\OddEvenSum.genruntimeconfig.cache

@@ -1,0 +1,12 @@
+D:\SoftUniC#June21\Exam\SumAndProduct\bin\Debug\netcoreapp3.1\SumAndProduct.exe
+D:\SoftUniC#June21\Exam\SumAndProduct\bin\Debug\netcoreapp3.1\SumAndProduct.deps.json
+D:\SoftUniC#June21\Exam\SumAndProduct\bin\Debug\netcoreapp3.1\SumAndProduct.runtimeconfig.json
+D:\SoftUniC#June21\Exam\SumAndProduct\bin\Debug\netcoreapp3.1\SumAndProduct.runtimeconfig.dev.json
+D:\SoftUniC#June21\Exam\SumAndProduct\bin\Debug\netcoreapp3.1\SumAndProduct.dll
+D:\SoftUniC#June21\Exam\SumAndProduct\bin\Debug\netcoreapp3.1\SumAndProduct.pdb
+D:\SoftUniC#June21\Exam\SumAndProduct\obj\Debug\netcoreapp3.1\SumAndProduct.AssemblyInfoInputs.cache
+D:\SoftUniC#June21\Exam\SumAndProduct\obj\Debug\netcoreapp3.1\SumAndProduct.AssemblyInfo.cs
+D:\SoftUniC#June21\Exam\SumAndProduct\obj\Debug\netcoreapp3.1\SumAndProduct.csproj.CoreCompileInputs.cache
+D:\SoftUniC#June21\Exam\SumAndProduct\obj\Debug\netcoreapp3.1\SumAndProduct.dll
+D:\SoftUniC#June21\Exam\SumAndProduct\obj\Debug\netcoreapp3.1\SumAndProduct.pdb
+D:\SoftUniC#June21\Exam\SumAndProduct\obj\Debug\netcoreapp3.1\SumAndProduct.genruntimeconfig.cache

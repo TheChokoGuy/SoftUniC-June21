@@ -1,0 +1,13 @@
+D:\SoftUniC#June21\SoftUniCSharpPractice1\DepositCalculator\bin\Debug\netcoreapp3.1\DepositCalculator.exe
+D:\SoftUniC#June21\SoftUniCSharpPractice1\DepositCalculator\bin\Debug\netcoreapp3.1\DepositCalculator.deps.json
+D:\SoftUniC#June21\SoftUniCSharpPractice1\DepositCalculator\bin\Debug\netcoreapp3.1\DepositCalculator.runtimeconfig.json
+D:\SoftUniC#June21\SoftUniCSharpPractice1\DepositCalculator\bin\Debug\netcoreapp3.1\DepositCalculator.runtimeconfig.dev.json
+D:\SoftUniC#June21\SoftUniCSharpPractice1\DepositCalculator\bin\Debug\netcoreapp3.1\DepositCalculator.dll
+D:\SoftUniC#June21\SoftUniCSharpPractice1\DepositCalculator\bin\Debug\netcoreapp3.1\DepositCalculator.pdb
+D:\SoftUniC#June21\SoftUniCSharpPractice1\DepositCalculator\obj\Debug\netcoreapp3.1\DepositCalculator.csprojAssemblyReference.cache
+D:\SoftUniC#June21\SoftUniCSharpPractice1\DepositCalculator\obj\Debug\netcoreapp3.1\DepositCalculator.AssemblyInfoInputs.cache
+D:\SoftUniC#June21\SoftUniCSharpPractice1\DepositCalculator\obj\Debug\netcoreapp3.1\DepositCalculator.AssemblyInfo.cs
+D:\SoftUniC#June21\SoftUniCSharpPractice1\DepositCalculator\obj\Debug\netcoreapp3.1\DepositCalculator.csproj.CoreCompileInputs.cache
+D:\SoftUniC#June21\SoftUniCSharpPractice1\DepositCalculator\obj\Debug\netcoreapp3.1\DepositCalculator.dll
+D:\SoftUniC#June21\SoftUniCSharpPractice1\DepositCalculator\obj\Debug\netcoreapp3.1\DepositCalculator.pdb
+D:\SoftUniC#June21\SoftUniCSharpPractice1\DepositCalculator\obj\Debug\netcoreapp3.1\DepositCalculator.genruntimeconfig.cache

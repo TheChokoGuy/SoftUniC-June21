@@ -1,0 +1,12 @@
+D:\SoftUniC#June21\SoftUniCSharpPractice1\BirthdayParty\bin\Debug\netcoreapp3.1\BirthdayParty.exe
+D:\SoftUniC#June21\SoftUniCSharpPractice1\BirthdayParty\bin\Debug\netcoreapp3.1\BirthdayParty.deps.json
+D:\SoftUniC#June21\SoftUniCSharpPractice1\BirthdayParty\bin\Debug\netcoreapp3.1\BirthdayParty.runtimeconfig.json
+D:\SoftUniC#June21\SoftUniCSharpPractice1\BirthdayParty\bin\Debug\netcoreapp3.1\BirthdayParty.runtimeconfig.dev.json
+D:\SoftUniC#June21\SoftUniCSharpPractice1\BirthdayParty\bin\Debug\netcoreapp3.1\BirthdayParty.dll
+D:\SoftUniC#June21\SoftUniCSharpPractice1\BirthdayParty\bin\Debug\netcoreapp3.1\BirthdayParty.pdb
+D:\SoftUniC#June21\SoftUniCSharpPractice1\BirthdayParty\obj\Debug\netcoreapp3.1\BirthdayParty.AssemblyInfoInputs.cache
+D:\SoftUniC#June21\SoftUniCSharpPractice1\BirthdayParty\obj\Debug\netcoreapp3.1\BirthdayParty.AssemblyInfo.cs
+D:\SoftUniC#June21\SoftUniCSharpPractice1\BirthdayParty\obj\Debug\netcoreapp3.1\BirthdayParty.csproj.CoreCompileInputs.cache
+D:\SoftUniC#June21\SoftUniCSharpPractice1\BirthdayParty\obj\Debug\netcoreapp3.1\BirthdayParty.dll
+D:\SoftUniC#June21\SoftUniCSharpPractice1\BirthdayParty\obj\Debug\netcoreapp3.1\BirthdayParty.pdb
+D:\SoftUniC#June21\SoftUniCSharpPractice1\BirthdayParty\obj\Debug\netcoreapp3.1\BirthdayParty.genruntimeconfig.cache

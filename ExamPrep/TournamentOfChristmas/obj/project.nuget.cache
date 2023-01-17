@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "t1v+q15HWYbypfdulQjoxq2ERo2aEgybUFKI0UrC0bneINS/mmQpHKoMhwQX6SGvKFewjix/sI+gvWjuMGJiJg==",
+  "success": true,
+  "projectFilePath": "D:\\Softuni\\SoftUniC#June21\\ExamPrep\\TournamentOfChristmas\\TournamentOfChristmas.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\gabig\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.22\\microsoft.netcore.app.host.win-x64.3.1.22.nupkg.sha512"
+  ],
+  "logs": []
+}

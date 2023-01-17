@@ -1,0 +1,13 @@
+D:\SoftUniC#June21\SoftUni\GreetingByName\bin\Debug\netcoreapp3.1\GreetingByName.exe
+D:\SoftUniC#June21\SoftUni\GreetingByName\bin\Debug\netcoreapp3.1\GreetingByName.deps.json
+D:\SoftUniC#June21\SoftUni\GreetingByName\bin\Debug\netcoreapp3.1\GreetingByName.runtimeconfig.json
+D:\SoftUniC#June21\SoftUni\GreetingByName\bin\Debug\netcoreapp3.1\GreetingByName.runtimeconfig.dev.json
+D:\SoftUniC#June21\SoftUni\GreetingByName\bin\Debug\netcoreapp3.1\GreetingByName.dll
+D:\SoftUniC#June21\SoftUni\GreetingByName\bin\Debug\netcoreapp3.1\GreetingByName.pdb
+D:\SoftUniC#June21\SoftUni\GreetingByName\obj\Debug\netcoreapp3.1\GreetingByName.csprojAssemblyReference.cache
+D:\SoftUniC#June21\SoftUni\GreetingByName\obj\Debug\netcoreapp3.1\GreetingByName.AssemblyInfoInputs.cache
+D:\SoftUniC#June21\SoftUni\GreetingByName\obj\Debug\netcoreapp3.1\GreetingByName.AssemblyInfo.cs
+D:\SoftUniC#June21\SoftUni\GreetingByName\obj\Debug\netcoreapp3.1\GreetingByName.csproj.CoreCompileInputs.cache
+D:\SoftUniC#June21\SoftUni\GreetingByName\obj\Debug\netcoreapp3.1\GreetingByName.dll
+D:\SoftUniC#June21\SoftUni\GreetingByName\obj\Debug\netcoreapp3.1\GreetingByName.pdb
+D:\SoftUniC#June21\SoftUni\GreetingByName\obj\Debug\netcoreapp3.1\GreetingByName.genruntimeconfig.cache

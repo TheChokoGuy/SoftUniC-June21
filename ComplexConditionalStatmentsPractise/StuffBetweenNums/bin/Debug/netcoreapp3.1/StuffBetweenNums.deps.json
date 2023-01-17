@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "StuffBetweenNums/1.0.0": {
+        "runtime": {
+          "StuffBetweenNums.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "StuffBetweenNums/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

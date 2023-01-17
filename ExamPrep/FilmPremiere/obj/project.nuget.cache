@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "rAH+ye+CJ6wuyY2RG0dBgfQ2wFD5PGvGXQAspQ3ltTY5A/D4yBL4WSCBRJRimECKrqe0uP25uc8ZXTNnbenKVA==",
+  "success": true,
+  "projectFilePath": "D:\\Softuni\\SoftUniC#June21\\ExamPrep\\FilmPremiere\\FilmPremiere.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\gabig\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.22\\microsoft.netcore.app.host.win-x64.3.1.22.nupkg.sha512"
+  ],
+  "logs": []
+}

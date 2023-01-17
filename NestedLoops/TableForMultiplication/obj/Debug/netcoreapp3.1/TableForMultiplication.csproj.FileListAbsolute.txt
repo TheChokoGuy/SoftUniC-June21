@@ -1,0 +1,13 @@
+D:\SoftUniC#June21\NestedLoops\TableForMultiplication\bin\Debug\netcoreapp3.1\TableForMultiplication.exe
+D:\SoftUniC#June21\NestedLoops\TableForMultiplication\bin\Debug\netcoreapp3.1\TableForMultiplication.deps.json
+D:\SoftUniC#June21\NestedLoops\TableForMultiplication\bin\Debug\netcoreapp3.1\TableForMultiplication.runtimeconfig.json
+D:\SoftUniC#June21\NestedLoops\TableForMultiplication\bin\Debug\netcoreapp3.1\TableForMultiplication.runtimeconfig.dev.json
+D:\SoftUniC#June21\NestedLoops\TableForMultiplication\bin\Debug\netcoreapp3.1\TableForMultiplication.dll
+D:\SoftUniC#June21\NestedLoops\TableForMultiplication\bin\Debug\netcoreapp3.1\TableForMultiplication.pdb
+D:\SoftUniC#June21\NestedLoops\TableForMultiplication\obj\Debug\netcoreapp3.1\TableForMultiplication.csprojAssemblyReference.cache
+D:\SoftUniC#June21\NestedLoops\TableForMultiplication\obj\Debug\netcoreapp3.1\TableForMultiplication.AssemblyInfoInputs.cache
+D:\SoftUniC#June21\NestedLoops\TableForMultiplication\obj\Debug\netcoreapp3.1\TableForMultiplication.AssemblyInfo.cs
+D:\SoftUniC#June21\NestedLoops\TableForMultiplication\obj\Debug\netcoreapp3.1\TableForMultiplication.csproj.CoreCompileInputs.cache
+D:\SoftUniC#June21\NestedLoops\TableForMultiplication\obj\Debug\netcoreapp3.1\TableForMultiplication.dll
+D:\SoftUniC#June21\NestedLoops\TableForMultiplication\obj\Debug\netcoreapp3.1\TableForMultiplication.pdb
+D:\SoftUniC#June21\NestedLoops\TableForMultiplication\obj\Debug\netcoreapp3.1\TableForMultiplication.genruntimeconfig.cache

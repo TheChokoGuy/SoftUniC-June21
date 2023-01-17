@@ -1,0 +1,13 @@
+D:\SoftUniC#June21\ComplexConditionalStatmentsPractise\NewHome\bin\Debug\netcoreapp3.1\NewHome.exe
+D:\SoftUniC#June21\ComplexConditionalStatmentsPractise\NewHome\bin\Debug\netcoreapp3.1\NewHome.deps.json
+D:\SoftUniC#June21\ComplexConditionalStatmentsPractise\NewHome\bin\Debug\netcoreapp3.1\NewHome.runtimeconfig.json
+D:\SoftUniC#June21\ComplexConditionalStatmentsPractise\NewHome\bin\Debug\netcoreapp3.1\NewHome.runtimeconfig.dev.json
+D:\SoftUniC#June21\ComplexConditionalStatmentsPractise\NewHome\bin\Debug\netcoreapp3.1\NewHome.dll
+D:\SoftUniC#June21\ComplexConditionalStatmentsPractise\NewHome\bin\Debug\netcoreapp3.1\NewHome.pdb
+D:\SoftUniC#June21\ComplexConditionalStatmentsPractise\NewHome\obj\Debug\netcoreapp3.1\NewHome.csprojAssemblyReference.cache
+D:\SoftUniC#June21\ComplexConditionalStatmentsPractise\NewHome\obj\Debug\netcoreapp3.1\NewHome.AssemblyInfoInputs.cache
+D:\SoftUniC#June21\ComplexConditionalStatmentsPractise\NewHome\obj\Debug\netcoreapp3.1\NewHome.AssemblyInfo.cs
+D:\SoftUniC#June21\ComplexConditionalStatmentsPractise\NewHome\obj\Debug\netcoreapp3.1\NewHome.csproj.CoreCompileInputs.cache
+D:\SoftUniC#June21\ComplexConditionalStatmentsPractise\NewHome\obj\Debug\netcoreapp3.1\NewHome.dll
+D:\SoftUniC#June21\ComplexConditionalStatmentsPractise\NewHome\obj\Debug\netcoreapp3.1\NewHome.pdb
+D:\SoftUniC#June21\ComplexConditionalStatmentsPractise\NewHome\obj\Debug\netcoreapp3.1\NewHome.genruntimeconfig.cache

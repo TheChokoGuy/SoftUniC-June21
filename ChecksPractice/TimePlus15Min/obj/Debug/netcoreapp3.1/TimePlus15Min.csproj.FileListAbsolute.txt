@@ -1,0 +1,12 @@
+D:\SoftUniC#June21\ChecksPractice\TimePlus15Min\bin\Debug\netcoreapp3.1\TimePlus15Min.exe
+D:\SoftUniC#June21\ChecksPractice\TimePlus15Min\bin\Debug\netcoreapp3.1\TimePlus15Min.deps.json
+D:\SoftUniC#June21\ChecksPractice\TimePlus15Min\bin\Debug\netcoreapp3.1\TimePlus15Min.runtimeconfig.json
+D:\SoftUniC#June21\ChecksPractice\TimePlus15Min\bin\Debug\netcoreapp3.1\TimePlus15Min.runtimeconfig.dev.json
+D:\SoftUniC#June21\ChecksPractice\TimePlus15Min\bin\Debug\netcoreapp3.1\TimePlus15Min.dll
+D:\SoftUniC#June21\ChecksPractice\TimePlus15Min\bin\Debug\netcoreapp3.1\TimePlus15Min.pdb
+D:\SoftUniC#June21\ChecksPractice\TimePlus15Min\obj\Debug\netcoreapp3.1\TimePlus15Min.AssemblyInfoInputs.cache
+D:\SoftUniC#June21\ChecksPractice\TimePlus15Min\obj\Debug\netcoreapp3.1\TimePlus15Min.AssemblyInfo.cs
+D:\SoftUniC#June21\ChecksPractice\TimePlus15Min\obj\Debug\netcoreapp3.1\TimePlus15Min.csproj.CoreCompileInputs.cache
+D:\SoftUniC#June21\ChecksPractice\TimePlus15Min\obj\Debug\netcoreapp3.1\TimePlus15Min.dll
+D:\SoftUniC#June21\ChecksPractice\TimePlus15Min\obj\Debug\netcoreapp3.1\TimePlus15Min.pdb
+D:\SoftUniC#June21\ChecksPractice\TimePlus15Min\obj\Debug\netcoreapp3.1\TimePlus15Min.genruntimeconfig.cache

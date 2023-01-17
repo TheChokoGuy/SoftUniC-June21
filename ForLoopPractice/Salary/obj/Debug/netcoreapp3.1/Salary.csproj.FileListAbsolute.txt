@@ -1,0 +1,12 @@
+D:\SoftUniC#June21\ForLoopPractice\Salary\bin\Debug\netcoreapp3.1\Salary.exe
+D:\SoftUniC#June21\ForLoopPractice\Salary\bin\Debug\netcoreapp3.1\Salary.deps.json
+D:\SoftUniC#June21\ForLoopPractice\Salary\bin\Debug\netcoreapp3.1\Salary.runtimeconfig.json
+D:\SoftUniC#June21\ForLoopPractice\Salary\bin\Debug\netcoreapp3.1\Salary.runtimeconfig.dev.json
+D:\SoftUniC#June21\ForLoopPractice\Salary\bin\Debug\netcoreapp3.1\Salary.dll
+D:\SoftUniC#June21\ForLoopPractice\Salary\bin\Debug\netcoreapp3.1\Salary.pdb
+D:\SoftUniC#June21\ForLoopPractice\Salary\obj\Debug\netcoreapp3.1\Salary.AssemblyInfoInputs.cache
+D:\SoftUniC#June21\ForLoopPractice\Salary\obj\Debug\netcoreapp3.1\Salary.AssemblyInfo.cs
+D:\SoftUniC#June21\ForLoopPractice\Salary\obj\Debug\netcoreapp3.1\Salary.csproj.CoreCompileInputs.cache
+D:\SoftUniC#June21\ForLoopPractice\Salary\obj\Debug\netcoreapp3.1\Salary.dll
+D:\SoftUniC#June21\ForLoopPractice\Salary\obj\Debug\netcoreapp3.1\Salary.pdb
+D:\SoftUniC#June21\ForLoopPractice\Salary\obj\Debug\netcoreapp3.1\Salary.genruntimeconfig.cache

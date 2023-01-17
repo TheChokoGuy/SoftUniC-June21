@@ -1,0 +1,13 @@
+D:\SoftUniC#June21\ExamPrep\FootballTournament\bin\Debug\netcoreapp3.1\FootballTournament.exe
+D:\SoftUniC#June21\ExamPrep\FootballTournament\bin\Debug\netcoreapp3.1\FootballTournament.deps.json
+D:\SoftUniC#June21\ExamPrep\FootballTournament\bin\Debug\netcoreapp3.1\FootballTournament.runtimeconfig.json
+D:\SoftUniC#June21\ExamPrep\FootballTournament\bin\Debug\netcoreapp3.1\FootballTournament.runtimeconfig.dev.json
+D:\SoftUniC#June21\ExamPrep\FootballTournament\bin\Debug\netcoreapp3.1\FootballTournament.dll
+D:\SoftUniC#June21\ExamPrep\FootballTournament\bin\Debug\netcoreapp3.1\FootballTournament.pdb
+D:\SoftUniC#June21\ExamPrep\FootballTournament\obj\Debug\netcoreapp3.1\FootballTournament.csprojAssemblyReference.cache
+D:\SoftUniC#June21\ExamPrep\FootballTournament\obj\Debug\netcoreapp3.1\FootballTournament.AssemblyInfoInputs.cache
+D:\SoftUniC#June21\ExamPrep\FootballTournament\obj\Debug\netcoreapp3.1\FootballTournament.AssemblyInfo.cs
+D:\SoftUniC#June21\ExamPrep\FootballTournament\obj\Debug\netcoreapp3.1\FootballTournament.csproj.CoreCompileInputs.cache
+D:\SoftUniC#June21\ExamPrep\FootballTournament\obj\Debug\netcoreapp3.1\FootballTournament.dll
+D:\SoftUniC#June21\ExamPrep\FootballTournament\obj\Debug\netcoreapp3.1\FootballTournament.pdb
+D:\SoftUniC#June21\ExamPrep\FootballTournament\obj\Debug\netcoreapp3.1\FootballTournament.genruntimeconfig.cache

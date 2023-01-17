@@ -1,0 +1,13 @@
+D:\SoftUniC#June21\ExamPrep\BestPlayer\bin\Debug\netcoreapp3.1\BestPlayer.exe
+D:\SoftUniC#June21\ExamPrep\BestPlayer\bin\Debug\netcoreapp3.1\BestPlayer.deps.json
+D:\SoftUniC#June21\ExamPrep\BestPlayer\bin\Debug\netcoreapp3.1\BestPlayer.runtimeconfig.json
+D:\SoftUniC#June21\ExamPrep\BestPlayer\bin\Debug\netcoreapp3.1\BestPlayer.runtimeconfig.dev.json
+D:\SoftUniC#June21\ExamPrep\BestPlayer\bin\Debug\netcoreapp3.1\BestPlayer.dll
+D:\SoftUniC#June21\ExamPrep\BestPlayer\bin\Debug\netcoreapp3.1\BestPlayer.pdb
+D:\SoftUniC#June21\ExamPrep\BestPlayer\obj\Debug\netcoreapp3.1\BestPlayer.AssemblyInfoInputs.cache
+D:\SoftUniC#June21\ExamPrep\BestPlayer\obj\Debug\netcoreapp3.1\BestPlayer.AssemblyInfo.cs
+D:\SoftUniC#June21\ExamPrep\BestPlayer\obj\Debug\netcoreapp3.1\BestPlayer.csproj.CoreCompileInputs.cache
+D:\SoftUniC#June21\ExamPrep\BestPlayer\obj\Debug\netcoreapp3.1\BestPlayer.dll
+D:\SoftUniC#June21\ExamPrep\BestPlayer\obj\Debug\netcoreapp3.1\BestPlayer.pdb
+D:\SoftUniC#June21\ExamPrep\BestPlayer\obj\Debug\netcoreapp3.1\BestPlayer.genruntimeconfig.cache
+D:\SoftUniC#June21\ExamPrep\BestPlayer\obj\Debug\netcoreapp3.1\BestPlayer.csprojAssemblyReference.cache

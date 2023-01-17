@@ -1,0 +1,13 @@
+D:\SoftUniC#June21\ExamPrep\FilmPremiere\bin\Debug\netcoreapp3.1\FilmPremiere.exe
+D:\SoftUniC#June21\ExamPrep\FilmPremiere\bin\Debug\netcoreapp3.1\FilmPremiere.deps.json
+D:\SoftUniC#June21\ExamPrep\FilmPremiere\bin\Debug\netcoreapp3.1\FilmPremiere.runtimeconfig.json
+D:\SoftUniC#June21\ExamPrep\FilmPremiere\bin\Debug\netcoreapp3.1\FilmPremiere.runtimeconfig.dev.json
+D:\SoftUniC#June21\ExamPrep\FilmPremiere\bin\Debug\netcoreapp3.1\FilmPremiere.dll
+D:\SoftUniC#June21\ExamPrep\FilmPremiere\bin\Debug\netcoreapp3.1\FilmPremiere.pdb
+D:\SoftUniC#June21\ExamPrep\FilmPremiere\obj\Debug\netcoreapp3.1\FilmPremiere.csprojAssemblyReference.cache
+D:\SoftUniC#June21\ExamPrep\FilmPremiere\obj\Debug\netcoreapp3.1\FilmPremiere.AssemblyInfoInputs.cache
+D:\SoftUniC#June21\ExamPrep\FilmPremiere\obj\Debug\netcoreapp3.1\FilmPremiere.AssemblyInfo.cs
+D:\SoftUniC#June21\ExamPrep\FilmPremiere\obj\Debug\netcoreapp3.1\FilmPremiere.csproj.CoreCompileInputs.cache
+D:\SoftUniC#June21\ExamPrep\FilmPremiere\obj\Debug\netcoreapp3.1\FilmPremiere.dll
+D:\SoftUniC#June21\ExamPrep\FilmPremiere\obj\Debug\netcoreapp3.1\FilmPremiere.pdb
+D:\SoftUniC#June21\ExamPrep\FilmPremiere\obj\Debug\netcoreapp3.1\FilmPremiere.genruntimeconfig.cache

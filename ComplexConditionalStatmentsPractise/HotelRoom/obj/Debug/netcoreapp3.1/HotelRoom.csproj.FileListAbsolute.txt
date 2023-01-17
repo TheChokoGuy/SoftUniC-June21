@@ -1,0 +1,12 @@
+D:\SoftUniC#June21\ComplexConditionalStatmentsPractise\HotelRoom\bin\Debug\netcoreapp3.1\HotelRoom.exe
+D:\SoftUniC#June21\ComplexConditionalStatmentsPractise\HotelRoom\bin\Debug\netcoreapp3.1\HotelRoom.deps.json
+D:\SoftUniC#June21\ComplexConditionalStatmentsPractise\HotelRoom\bin\Debug\netcoreapp3.1\HotelRoom.runtimeconfig.json
+D:\SoftUniC#June21\ComplexConditionalStatmentsPractise\HotelRoom\bin\Debug\netcoreapp3.1\HotelRoom.runtimeconfig.dev.json
+D:\SoftUniC#June21\ComplexConditionalStatmentsPractise\HotelRoom\bin\Debug\netcoreapp3.1\HotelRoom.dll
+D:\SoftUniC#June21\ComplexConditionalStatmentsPractise\HotelRoom\bin\Debug\netcoreapp3.1\HotelRoom.pdb
+D:\SoftUniC#June21\ComplexConditionalStatmentsPractise\HotelRoom\obj\Debug\netcoreapp3.1\HotelRoom.AssemblyInfoInputs.cache
+D:\SoftUniC#June21\ComplexConditionalStatmentsPractise\HotelRoom\obj\Debug\netcoreapp3.1\HotelRoom.AssemblyInfo.cs
+D:\SoftUniC#June21\ComplexConditionalStatmentsPractise\HotelRoom\obj\Debug\netcoreapp3.1\HotelRoom.csproj.CoreCompileInputs.cache
+D:\SoftUniC#June21\ComplexConditionalStatmentsPractise\HotelRoom\obj\Debug\netcoreapp3.1\HotelRoom.dll
+D:\SoftUniC#June21\ComplexConditionalStatmentsPractise\HotelRoom\obj\Debug\netcoreapp3.1\HotelRoom.pdb
+D:\SoftUniC#June21\ComplexConditionalStatmentsPractise\HotelRoom\obj\Debug\netcoreapp3.1\HotelRoom.genruntimeconfig.cache

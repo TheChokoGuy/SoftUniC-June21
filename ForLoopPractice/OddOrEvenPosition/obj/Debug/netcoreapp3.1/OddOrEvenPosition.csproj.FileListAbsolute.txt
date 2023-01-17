@@ -1,0 +1,13 @@
+D:\SoftUniC#June21\ForLoopPractice\OddOrEvenPosition\bin\Debug\netcoreapp3.1\OddOrEvenPosition.exe
+D:\SoftUniC#June21\ForLoopPractice\OddOrEvenPosition\bin\Debug\netcoreapp3.1\OddOrEvenPosition.deps.json
+D:\SoftUniC#June21\ForLoopPractice\OddOrEvenPosition\bin\Debug\netcoreapp3.1\OddOrEvenPosition.runtimeconfig.json
+D:\SoftUniC#June21\ForLoopPractice\OddOrEvenPosition\bin\Debug\netcoreapp3.1\OddOrEvenPosition.runtimeconfig.dev.json
+D:\SoftUniC#June21\ForLoopPractice\OddOrEvenPosition\bin\Debug\netcoreapp3.1\OddOrEvenPosition.dll
+D:\SoftUniC#June21\ForLoopPractice\OddOrEvenPosition\bin\Debug\netcoreapp3.1\OddOrEvenPosition.pdb
+D:\SoftUniC#June21\ForLoopPractice\OddOrEvenPosition\obj\Debug\netcoreapp3.1\OddOrEvenPosition.csprojAssemblyReference.cache
+D:\SoftUniC#June21\ForLoopPractice\OddOrEvenPosition\obj\Debug\netcoreapp3.1\OddOrEvenPosition.AssemblyInfoInputs.cache
+D:\SoftUniC#June21\ForLoopPractice\OddOrEvenPosition\obj\Debug\netcoreapp3.1\OddOrEvenPosition.AssemblyInfo.cs
+D:\SoftUniC#June21\ForLoopPractice\OddOrEvenPosition\obj\Debug\netcoreapp3.1\OddOrEvenPosition.csproj.CoreCompileInputs.cache
+D:\SoftUniC#June21\ForLoopPractice\OddOrEvenPosition\obj\Debug\netcoreapp3.1\OddOrEvenPosition.dll
+D:\SoftUniC#June21\ForLoopPractice\OddOrEvenPosition\obj\Debug\netcoreapp3.1\OddOrEvenPosition.pdb
+D:\SoftUniC#June21\ForLoopPractice\OddOrEvenPosition\obj\Debug\netcoreapp3.1\OddOrEvenPosition.genruntimeconfig.cache

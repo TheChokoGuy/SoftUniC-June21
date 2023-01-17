@@ -1,0 +1,12 @@
+D:\SoftUniC#June21\ChecksPractice\SwimmingWorldRecord\bin\Debug\netcoreapp3.1\SwimmingWorldRecord.exe
+D:\SoftUniC#June21\ChecksPractice\SwimmingWorldRecord\bin\Debug\netcoreapp3.1\SwimmingWorldRecord.deps.json
+D:\SoftUniC#June21\ChecksPractice\SwimmingWorldRecord\bin\Debug\netcoreapp3.1\SwimmingWorldRecord.runtimeconfig.json
+D:\SoftUniC#June21\ChecksPractice\SwimmingWorldRecord\bin\Debug\netcoreapp3.1\SwimmingWorldRecord.runtimeconfig.dev.json
+D:\SoftUniC#June21\ChecksPractice\SwimmingWorldRecord\bin\Debug\netcoreapp3.1\SwimmingWorldRecord.dll
+D:\SoftUniC#June21\ChecksPractice\SwimmingWorldRecord\bin\Debug\netcoreapp3.1\SwimmingWorldRecord.pdb
+D:\SoftUniC#June21\ChecksPractice\SwimmingWorldRecord\obj\Debug\netcoreapp3.1\SwimmingWorldRecord.AssemblyInfoInputs.cache
+D:\SoftUniC#June21\ChecksPractice\SwimmingWorldRecord\obj\Debug\netcoreapp3.1\SwimmingWorldRecord.AssemblyInfo.cs
+D:\SoftUniC#June21\ChecksPractice\SwimmingWorldRecord\obj\Debug\netcoreapp3.1\SwimmingWorldRecord.csproj.CoreCompileInputs.cache
+D:\SoftUniC#June21\ChecksPractice\SwimmingWorldRecord\obj\Debug\netcoreapp3.1\SwimmingWorldRecord.dll
+D:\SoftUniC#June21\ChecksPractice\SwimmingWorldRecord\obj\Debug\netcoreapp3.1\SwimmingWorldRecord.pdb
+D:\SoftUniC#June21\ChecksPractice\SwimmingWorldRecord\obj\Debug\netcoreapp3.1\SwimmingWorldRecord.genruntimeconfig.cache

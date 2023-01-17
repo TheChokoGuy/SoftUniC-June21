@@ -1,0 +1,12 @@
+D:\SoftUniC#June21\SoftUni\ProjectsCreation\bin\Debug\netcoreapp3.1\ProjectsCreation.exe
+D:\SoftUniC#June21\SoftUni\ProjectsCreation\bin\Debug\netcoreapp3.1\ProjectsCreation.deps.json
+D:\SoftUniC#June21\SoftUni\ProjectsCreation\bin\Debug\netcoreapp3.1\ProjectsCreation.runtimeconfig.json
+D:\SoftUniC#June21\SoftUni\ProjectsCreation\bin\Debug\netcoreapp3.1\ProjectsCreation.runtimeconfig.dev.json
+D:\SoftUniC#June21\SoftUni\ProjectsCreation\bin\Debug\netcoreapp3.1\ProjectsCreation.dll
+D:\SoftUniC#June21\SoftUni\ProjectsCreation\bin\Debug\netcoreapp3.1\ProjectsCreation.pdb
+D:\SoftUniC#June21\SoftUni\ProjectsCreation\obj\Debug\netcoreapp3.1\ProjectsCreation.AssemblyInfoInputs.cache
+D:\SoftUniC#June21\SoftUni\ProjectsCreation\obj\Debug\netcoreapp3.1\ProjectsCreation.AssemblyInfo.cs
+D:\SoftUniC#June21\SoftUni\ProjectsCreation\obj\Debug\netcoreapp3.1\ProjectsCreation.csproj.CoreCompileInputs.cache
+D:\SoftUniC#June21\SoftUni\ProjectsCreation\obj\Debug\netcoreapp3.1\ProjectsCreation.dll
+D:\SoftUniC#June21\SoftUni\ProjectsCreation\obj\Debug\netcoreapp3.1\ProjectsCreation.pdb
+D:\SoftUniC#June21\SoftUni\ProjectsCreation\obj\Debug\netcoreapp3.1\ProjectsCreation.genruntimeconfig.cache

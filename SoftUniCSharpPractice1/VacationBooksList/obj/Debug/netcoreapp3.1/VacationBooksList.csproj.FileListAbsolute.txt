@@ -1,0 +1,12 @@
+D:\SoftUniC#June21\SoftUniCSharpPractice1\VacationBooksList\bin\Debug\netcoreapp3.1\VacationBooksList.exe
+D:\SoftUniC#June21\SoftUniCSharpPractice1\VacationBooksList\bin\Debug\netcoreapp3.1\VacationBooksList.deps.json
+D:\SoftUniC#June21\SoftUniCSharpPractice1\VacationBooksList\bin\Debug\netcoreapp3.1\VacationBooksList.runtimeconfig.json
+D:\SoftUniC#June21\SoftUniCSharpPractice1\VacationBooksList\bin\Debug\netcoreapp3.1\VacationBooksList.runtimeconfig.dev.json
+D:\SoftUniC#June21\SoftUniCSharpPractice1\VacationBooksList\bin\Debug\netcoreapp3.1\VacationBooksList.dll
+D:\SoftUniC#June21\SoftUniCSharpPractice1\VacationBooksList\bin\Debug\netcoreapp3.1\VacationBooksList.pdb
+D:\SoftUniC#June21\SoftUniCSharpPractice1\VacationBooksList\obj\Debug\netcoreapp3.1\VacationBooksList.AssemblyInfoInputs.cache
+D:\SoftUniC#June21\SoftUniCSharpPractice1\VacationBooksList\obj\Debug\netcoreapp3.1\VacationBooksList.AssemblyInfo.cs
+D:\SoftUniC#June21\SoftUniCSharpPractice1\VacationBooksList\obj\Debug\netcoreapp3.1\VacationBooksList.csproj.CoreCompileInputs.cache
+D:\SoftUniC#June21\SoftUniCSharpPractice1\VacationBooksList\obj\Debug\netcoreapp3.1\VacationBooksList.dll
+D:\SoftUniC#June21\SoftUniCSharpPractice1\VacationBooksList\obj\Debug\netcoreapp3.1\VacationBooksList.pdb
+D:\SoftUniC#June21\SoftUniCSharpPractice1\VacationBooksList\obj\Debug\netcoreapp3.1\VacationBooksList.genruntimeconfig.cache

@@ -1,0 +1,12 @@
+D:\SoftUniC#June21\WhileLoopPractise\OldBooks\bin\Debug\netcoreapp3.1\OldBooks.exe
+D:\SoftUniC#June21\WhileLoopPractise\OldBooks\bin\Debug\netcoreapp3.1\OldBooks.deps.json
+D:\SoftUniC#June21\WhileLoopPractise\OldBooks\bin\Debug\netcoreapp3.1\OldBooks.runtimeconfig.json
+D:\SoftUniC#June21\WhileLoopPractise\OldBooks\bin\Debug\netcoreapp3.1\OldBooks.runtimeconfig.dev.json
+D:\SoftUniC#June21\WhileLoopPractise\OldBooks\bin\Debug\netcoreapp3.1\OldBooks.dll
+D:\SoftUniC#June21\WhileLoopPractise\OldBooks\bin\Debug\netcoreapp3.1\OldBooks.pdb
+D:\SoftUniC#June21\WhileLoopPractise\OldBooks\obj\Debug\netcoreapp3.1\OldBooks.AssemblyInfoInputs.cache
+D:\SoftUniC#June21\WhileLoopPractise\OldBooks\obj\Debug\netcoreapp3.1\OldBooks.AssemblyInfo.cs
+D:\SoftUniC#June21\WhileLoopPractise\OldBooks\obj\Debug\netcoreapp3.1\OldBooks.csproj.CoreCompileInputs.cache
+D:\SoftUniC#June21\WhileLoopPractise\OldBooks\obj\Debug\netcoreapp3.1\OldBooks.dll
+D:\SoftUniC#June21\WhileLoopPractise\OldBooks\obj\Debug\netcoreapp3.1\OldBooks.pdb
+D:\SoftUniC#June21\WhileLoopPractise\OldBooks\obj\Debug\netcoreapp3.1\OldBooks.genruntimeconfig.cache

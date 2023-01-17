@@ -1,0 +1,13 @@
+D:\SoftUniC#June21\SoftUniCSharpPractice1\CharityCampaign\bin\Debug\netcoreapp3.1\CharityCampaign.exe
+D:\SoftUniC#June21\SoftUniCSharpPractice1\CharityCampaign\bin\Debug\netcoreapp3.1\CharityCampaign.deps.json
+D:\SoftUniC#June21\SoftUniCSharpPractice1\CharityCampaign\bin\Debug\netcoreapp3.1\CharityCampaign.runtimeconfig.json
+D:\SoftUniC#June21\SoftUniCSharpPractice1\CharityCampaign\bin\Debug\netcoreapp3.1\CharityCampaign.runtimeconfig.dev.json
+D:\SoftUniC#June21\SoftUniCSharpPractice1\CharityCampaign\bin\Debug\netcoreapp3.1\CharityCampaign.dll
+D:\SoftUniC#June21\SoftUniCSharpPractice1\CharityCampaign\bin\Debug\netcoreapp3.1\CharityCampaign.pdb
+D:\SoftUniC#June21\SoftUniCSharpPractice1\CharityCampaign\obj\Debug\netcoreapp3.1\CharityCampaign.csprojAssemblyReference.cache
+D:\SoftUniC#June21\SoftUniCSharpPractice1\CharityCampaign\obj\Debug\netcoreapp3.1\CharityCampaign.AssemblyInfoInputs.cache
+D:\SoftUniC#June21\SoftUniCSharpPractice1\CharityCampaign\obj\Debug\netcoreapp3.1\CharityCampaign.AssemblyInfo.cs
+D:\SoftUniC#June21\SoftUniCSharpPractice1\CharityCampaign\obj\Debug\netcoreapp3.1\CharityCampaign.csproj.CoreCompileInputs.cache
+D:\SoftUniC#June21\SoftUniCSharpPractice1\CharityCampaign\obj\Debug\netcoreapp3.1\CharityCampaign.dll
+D:\SoftUniC#June21\SoftUniCSharpPractice1\CharityCampaign\obj\Debug\netcoreapp3.1\CharityCampaign.pdb
+D:\SoftUniC#June21\SoftUniCSharpPractice1\CharityCampaign\obj\Debug\netcoreapp3.1\CharityCampaign.genruntimeconfig.cache

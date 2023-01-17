@@ -1,0 +1,13 @@
+D:\SoftUniC#June21\ChecksAndConditionalStatements\CheckForGreaterNumber\bin\Debug\netcoreapp3.1\CheckForGreaterNumber.exe
+D:\SoftUniC#June21\ChecksAndConditionalStatements\CheckForGreaterNumber\bin\Debug\netcoreapp3.1\CheckForGreaterNumber.deps.json
+D:\SoftUniC#June21\ChecksAndConditionalStatements\CheckForGreaterNumber\bin\Debug\netcoreapp3.1\CheckForGreaterNumber.runtimeconfig.json
+D:\SoftUniC#June21\ChecksAndConditionalStatements\CheckForGreaterNumber\bin\Debug\netcoreapp3.1\CheckForGreaterNumber.runtimeconfig.dev.json
+D:\SoftUniC#June21\ChecksAndConditionalStatements\CheckForGreaterNumber\bin\Debug\netcoreapp3.1\CheckForGreaterNumber.dll
+D:\SoftUniC#June21\ChecksAndConditionalStatements\CheckForGreaterNumber\bin\Debug\netcoreapp3.1\CheckForGreaterNumber.pdb
+D:\SoftUniC#June21\ChecksAndConditionalStatements\CheckForGreaterNumber\obj\Debug\netcoreapp3.1\CheckForGreaterNumber.csprojAssemblyReference.cache
+D:\SoftUniC#June21\ChecksAndConditionalStatements\CheckForGreaterNumber\obj\Debug\netcoreapp3.1\CheckForGreaterNumber.AssemblyInfoInputs.cache
+D:\SoftUniC#June21\ChecksAndConditionalStatements\CheckForGreaterNumber\obj\Debug\netcoreapp3.1\CheckForGreaterNumber.AssemblyInfo.cs
+D:\SoftUniC#June21\ChecksAndConditionalStatements\CheckForGreaterNumber\obj\Debug\netcoreapp3.1\CheckForGreaterNumber.csproj.CoreCompileInputs.cache
+D:\SoftUniC#June21\ChecksAndConditionalStatements\CheckForGreaterNumber\obj\Debug\netcoreapp3.1\CheckForGreaterNumber.dll
+D:\SoftUniC#June21\ChecksAndConditionalStatements\CheckForGreaterNumber\obj\Debug\netcoreapp3.1\CheckForGreaterNumber.pdb
+D:\SoftUniC#June21\ChecksAndConditionalStatements\CheckForGreaterNumber\obj\Debug\netcoreapp3.1\CheckForGreaterNumber.genruntimeconfig.cache

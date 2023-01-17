@@ -1,0 +1,13 @@
+D:\SoftUniC#June21\SoftUniCSharpPractice1\FruitMarket\bin\Debug\netcoreapp3.1\FruitMarket.exe
+D:\SoftUniC#June21\SoftUniCSharpPractice1\FruitMarket\bin\Debug\netcoreapp3.1\FruitMarket.deps.json
+D:\SoftUniC#June21\SoftUniCSharpPractice1\FruitMarket\bin\Debug\netcoreapp3.1\FruitMarket.runtimeconfig.json
+D:\SoftUniC#June21\SoftUniCSharpPractice1\FruitMarket\bin\Debug\netcoreapp3.1\FruitMarket.runtimeconfig.dev.json
+D:\SoftUniC#June21\SoftUniCSharpPractice1\FruitMarket\bin\Debug\netcoreapp3.1\FruitMarket.dll
+D:\SoftUniC#June21\SoftUniCSharpPractice1\FruitMarket\bin\Debug\netcoreapp3.1\FruitMarket.pdb
+D:\SoftUniC#June21\SoftUniCSharpPractice1\FruitMarket\obj\Debug\netcoreapp3.1\FruitMarket.AssemblyInfoInputs.cache
+D:\SoftUniC#June21\SoftUniCSharpPractice1\FruitMarket\obj\Debug\netcoreapp3.1\FruitMarket.AssemblyInfo.cs
+D:\SoftUniC#June21\SoftUniCSharpPractice1\FruitMarket\obj\Debug\netcoreapp3.1\FruitMarket.csproj.CoreCompileInputs.cache
+D:\SoftUniC#June21\SoftUniCSharpPractice1\FruitMarket\obj\Debug\netcoreapp3.1\FruitMarket.dll
+D:\SoftUniC#June21\SoftUniCSharpPractice1\FruitMarket\obj\Debug\netcoreapp3.1\FruitMarket.pdb
+D:\SoftUniC#June21\SoftUniCSharpPractice1\FruitMarket\obj\Debug\netcoreapp3.1\FruitMarket.genruntimeconfig.cache
+D:\SoftUniC#June21\SoftUniCSharpPractice1\FruitMarket\obj\Debug\netcoreapp3.1\FruitMarket.csprojAssemblyReference.cache

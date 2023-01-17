@@ -1,0 +1,13 @@
+D:\SoftUniC#June21\SoftUni\SquareNumber\bin\Debug\netcoreapp3.1\SquareNumber.exe
+D:\SoftUniC#June21\SoftUni\SquareNumber\bin\Debug\netcoreapp3.1\SquareNumber.deps.json
+D:\SoftUniC#June21\SoftUni\SquareNumber\bin\Debug\netcoreapp3.1\SquareNumber.runtimeconfig.json
+D:\SoftUniC#June21\SoftUni\SquareNumber\bin\Debug\netcoreapp3.1\SquareNumber.runtimeconfig.dev.json
+D:\SoftUniC#June21\SoftUni\SquareNumber\bin\Debug\netcoreapp3.1\SquareNumber.dll
+D:\SoftUniC#June21\SoftUni\SquareNumber\bin\Debug\netcoreapp3.1\SquareNumber.pdb
+D:\SoftUniC#June21\SoftUni\SquareNumber\obj\Debug\netcoreapp3.1\SquareNumber.csprojAssemblyReference.cache
+D:\SoftUniC#June21\SoftUni\SquareNumber\obj\Debug\netcoreapp3.1\SquareNumber.AssemblyInfoInputs.cache
+D:\SoftUniC#June21\SoftUni\SquareNumber\obj\Debug\netcoreapp3.1\SquareNumber.AssemblyInfo.cs
+D:\SoftUniC#June21\SoftUni\SquareNumber\obj\Debug\netcoreapp3.1\SquareNumber.csproj.CoreCompileInputs.cache
+D:\SoftUniC#June21\SoftUni\SquareNumber\obj\Debug\netcoreapp3.1\SquareNumber.dll
+D:\SoftUniC#June21\SoftUni\SquareNumber\obj\Debug\netcoreapp3.1\SquareNumber.pdb
+D:\SoftUniC#June21\SoftUni\SquareNumber\obj\Debug\netcoreapp3.1\SquareNumber.genruntimeconfig.cache

@@ -1,0 +1,12 @@
+D:\SoftUniC#June21\ComplexConditionalStatmentsPractise\Ttip\bin\Debug\netcoreapp3.1\Ttip.exe
+D:\SoftUniC#June21\ComplexConditionalStatmentsPractise\Ttip\bin\Debug\netcoreapp3.1\Ttip.deps.json
+D:\SoftUniC#June21\ComplexConditionalStatmentsPractise\Ttip\bin\Debug\netcoreapp3.1\Ttip.runtimeconfig.json
+D:\SoftUniC#June21\ComplexConditionalStatmentsPractise\Ttip\bin\Debug\netcoreapp3.1\Ttip.runtimeconfig.dev.json
+D:\SoftUniC#June21\ComplexConditionalStatmentsPractise\Ttip\bin\Debug\netcoreapp3.1\Ttip.dll
+D:\SoftUniC#June21\ComplexConditionalStatmentsPractise\Ttip\bin\Debug\netcoreapp3.1\Ttip.pdb
+D:\SoftUniC#June21\ComplexConditionalStatmentsPractise\Ttip\obj\Debug\netcoreapp3.1\Ttip.AssemblyInfoInputs.cache
+D:\SoftUniC#June21\ComplexConditionalStatmentsPractise\Ttip\obj\Debug\netcoreapp3.1\Ttip.AssemblyInfo.cs
+D:\SoftUniC#June21\ComplexConditionalStatmentsPractise\Ttip\obj\Debug\netcoreapp3.1\Ttip.csproj.CoreCompileInputs.cache
+D:\SoftUniC#June21\ComplexConditionalStatmentsPractise\Ttip\obj\Debug\netcoreapp3.1\Ttip.dll
+D:\SoftUniC#June21\ComplexConditionalStatmentsPractise\Ttip\obj\Debug\netcoreapp3.1\Ttip.pdb
+D:\SoftUniC#June21\ComplexConditionalStatmentsPractise\Ttip\obj\Debug\netcoreapp3.1\Ttip.genruntimeconfig.cache

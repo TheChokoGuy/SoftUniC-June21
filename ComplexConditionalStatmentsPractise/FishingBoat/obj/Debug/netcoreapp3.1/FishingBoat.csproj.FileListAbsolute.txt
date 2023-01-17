@@ -1,0 +1,13 @@
+D:\SoftUniC#June21\ComplexConditionalStatmentsPractise\FishingBoat\bin\Debug\netcoreapp3.1\FishingBoat.exe
+D:\SoftUniC#June21\ComplexConditionalStatmentsPractise\FishingBoat\bin\Debug\netcoreapp3.1\FishingBoat.deps.json
+D:\SoftUniC#June21\ComplexConditionalStatmentsPractise\FishingBoat\bin\Debug\netcoreapp3.1\FishingBoat.runtimeconfig.json
+D:\SoftUniC#June21\ComplexConditionalStatmentsPractise\FishingBoat\bin\Debug\netcoreapp3.1\FishingBoat.runtimeconfig.dev.json
+D:\SoftUniC#June21\ComplexConditionalStatmentsPractise\FishingBoat\bin\Debug\netcoreapp3.1\FishingBoat.dll
+D:\SoftUniC#June21\ComplexConditionalStatmentsPractise\FishingBoat\bin\Debug\netcoreapp3.1\FishingBoat.pdb
+D:\SoftUniC#June21\ComplexConditionalStatmentsPractise\FishingBoat\obj\Debug\netcoreapp3.1\FishingBoat.csprojAssemblyReference.cache
+D:\SoftUniC#June21\ComplexConditionalStatmentsPractise\FishingBoat\obj\Debug\netcoreapp3.1\FishingBoat.AssemblyInfoInputs.cache
+D:\SoftUniC#June21\ComplexConditionalStatmentsPractise\FishingBoat\obj\Debug\netcoreapp3.1\FishingBoat.AssemblyInfo.cs
+D:\SoftUniC#June21\ComplexConditionalStatmentsPractise\FishingBoat\obj\Debug\netcoreapp3.1\FishingBoat.csproj.CoreCompileInputs.cache
+D:\SoftUniC#June21\ComplexConditionalStatmentsPractise\FishingBoat\obj\Debug\netcoreapp3.1\FishingBoat.dll
+D:\SoftUniC#June21\ComplexConditionalStatmentsPractise\FishingBoat\obj\Debug\netcoreapp3.1\FishingBoat.pdb
+D:\SoftUniC#June21\ComplexConditionalStatmentsPractise\FishingBoat\obj\Debug\netcoreapp3.1\FishingBoat.genruntimeconfig.cache

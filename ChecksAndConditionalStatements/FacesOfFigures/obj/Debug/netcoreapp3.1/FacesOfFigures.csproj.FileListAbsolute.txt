@@ -1,0 +1,12 @@
+D:\SoftUniC#June21\ChecksAndConditionalStatements\FacesOfFigures\bin\Debug\netcoreapp3.1\FacesOfFigures.exe
+D:\SoftUniC#June21\ChecksAndConditionalStatements\FacesOfFigures\bin\Debug\netcoreapp3.1\FacesOfFigures.deps.json
+D:\SoftUniC#June21\ChecksAndConditionalStatements\FacesOfFigures\bin\Debug\netcoreapp3.1\FacesOfFigures.runtimeconfig.json
+D:\SoftUniC#June21\ChecksAndConditionalStatements\FacesOfFigures\bin\Debug\netcoreapp3.1\FacesOfFigures.runtimeconfig.dev.json
+D:\SoftUniC#June21\ChecksAndConditionalStatements\FacesOfFigures\bin\Debug\netcoreapp3.1\FacesOfFigures.dll
+D:\SoftUniC#June21\ChecksAndConditionalStatements\FacesOfFigures\bin\Debug\netcoreapp3.1\FacesOfFigures.pdb
+D:\SoftUniC#June21\ChecksAndConditionalStatements\FacesOfFigures\obj\Debug\netcoreapp3.1\FacesOfFigures.AssemblyInfoInputs.cache
+D:\SoftUniC#June21\ChecksAndConditionalStatements\FacesOfFigures\obj\Debug\netcoreapp3.1\FacesOfFigures.AssemblyInfo.cs
+D:\SoftUniC#June21\ChecksAndConditionalStatements\FacesOfFigures\obj\Debug\netcoreapp3.1\FacesOfFigures.csproj.CoreCompileInputs.cache
+D:\SoftUniC#June21\ChecksAndConditionalStatements\FacesOfFigures\obj\Debug\netcoreapp3.1\FacesOfFigures.dll
+D:\SoftUniC#June21\ChecksAndConditionalStatements\FacesOfFigures\obj\Debug\netcoreapp3.1\FacesOfFigures.pdb
+D:\SoftUniC#June21\ChecksAndConditionalStatements\FacesOfFigures\obj\Debug\netcoreapp3.1\FacesOfFigures.genruntimeconfig.cache

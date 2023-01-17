@@ -1,0 +1,13 @@
+D:\SoftUniC#June21\ChecksAndConditionalStatements\ToyShop\obj\Debug\netcoreapp3.1\ToyShop.csprojAssemblyReference.cache
+D:\SoftUniC#June21\ChecksAndConditionalStatements\ToyShop\obj\Debug\netcoreapp3.1\ToyShop.AssemblyInfoInputs.cache
+D:\SoftUniC#June21\ChecksAndConditionalStatements\ToyShop\obj\Debug\netcoreapp3.1\ToyShop.AssemblyInfo.cs
+D:\SoftUniC#June21\ChecksAndConditionalStatements\ToyShop\obj\Debug\netcoreapp3.1\ToyShop.csproj.CoreCompileInputs.cache
+D:\SoftUniC#June21\ChecksAndConditionalStatements\ToyShop\bin\Debug\netcoreapp3.1\ToyShop.exe
+D:\SoftUniC#June21\ChecksAndConditionalStatements\ToyShop\bin\Debug\netcoreapp3.1\ToyShop.deps.json
+D:\SoftUniC#June21\ChecksAndConditionalStatements\ToyShop\bin\Debug\netcoreapp3.1\ToyShop.runtimeconfig.json
+D:\SoftUniC#June21\ChecksAndConditionalStatements\ToyShop\bin\Debug\netcoreapp3.1\ToyShop.runtimeconfig.dev.json
+D:\SoftUniC#June21\ChecksAndConditionalStatements\ToyShop\bin\Debug\netcoreapp3.1\ToyShop.dll
+D:\SoftUniC#June21\ChecksAndConditionalStatements\ToyShop\bin\Debug\netcoreapp3.1\ToyShop.pdb
+D:\SoftUniC#June21\ChecksAndConditionalStatements\ToyShop\obj\Debug\netcoreapp3.1\ToyShop.dll
+D:\SoftUniC#June21\ChecksAndConditionalStatements\ToyShop\obj\Debug\netcoreapp3.1\ToyShop.pdb
+D:\SoftUniC#June21\ChecksAndConditionalStatements\ToyShop\obj\Debug\netcoreapp3.1\ToyShop.genruntimeconfig.cache

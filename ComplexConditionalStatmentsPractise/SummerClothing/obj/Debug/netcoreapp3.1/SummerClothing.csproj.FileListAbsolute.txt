@@ -1,0 +1,13 @@
+D:\SoftUniC#June21\ComplexConditionalStatmentsPractise\SummerClothing\bin\Debug\netcoreapp3.1\SummerClothing.exe
+D:\SoftUniC#June21\ComplexConditionalStatmentsPractise\SummerClothing\bin\Debug\netcoreapp3.1\SummerClothing.deps.json
+D:\SoftUniC#June21\ComplexConditionalStatmentsPractise\SummerClothing\bin\Debug\netcoreapp3.1\SummerClothing.runtimeconfig.json
+D:\SoftUniC#June21\ComplexConditionalStatmentsPractise\SummerClothing\bin\Debug\netcoreapp3.1\SummerClothing.runtimeconfig.dev.json
+D:\SoftUniC#June21\ComplexConditionalStatmentsPractise\SummerClothing\bin\Debug\netcoreapp3.1\SummerClothing.dll
+D:\SoftUniC#June21\ComplexConditionalStatmentsPractise\SummerClothing\bin\Debug\netcoreapp3.1\SummerClothing.pdb
+D:\SoftUniC#June21\ComplexConditionalStatmentsPractise\SummerClothing\obj\Debug\netcoreapp3.1\SummerClothing.csprojAssemblyReference.cache
+D:\SoftUniC#June21\ComplexConditionalStatmentsPractise\SummerClothing\obj\Debug\netcoreapp3.1\SummerClothing.AssemblyInfoInputs.cache
+D:\SoftUniC#June21\ComplexConditionalStatmentsPractise\SummerClothing\obj\Debug\netcoreapp3.1\SummerClothing.AssemblyInfo.cs
+D:\SoftUniC#June21\ComplexConditionalStatmentsPractise\SummerClothing\obj\Debug\netcoreapp3.1\SummerClothing.csproj.CoreCompileInputs.cache
+D:\SoftUniC#June21\ComplexConditionalStatmentsPractise\SummerClothing\obj\Debug\netcoreapp3.1\SummerClothing.dll
+D:\SoftUniC#June21\ComplexConditionalStatmentsPractise\SummerClothing\obj\Debug\netcoreapp3.1\SummerClothing.pdb
+D:\SoftUniC#June21\ComplexConditionalStatmentsPractise\SummerClothing\obj\Debug\netcoreapp3.1\SummerClothing.genruntimeconfig.cache

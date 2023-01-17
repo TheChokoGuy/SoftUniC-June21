@@ -1,0 +1,13 @@
+D:\SoftUniC#June21\SoftUniCSharpPractice1\RadiansTODegrees\bin\Debug\netcoreapp3.1\RadiansTODegrees.exe
+D:\SoftUniC#June21\SoftUniCSharpPractice1\RadiansTODegrees\bin\Debug\netcoreapp3.1\RadiansTODegrees.deps.json
+D:\SoftUniC#June21\SoftUniCSharpPractice1\RadiansTODegrees\bin\Debug\netcoreapp3.1\RadiansTODegrees.runtimeconfig.json
+D:\SoftUniC#June21\SoftUniCSharpPractice1\RadiansTODegrees\bin\Debug\netcoreapp3.1\RadiansTODegrees.runtimeconfig.dev.json
+D:\SoftUniC#June21\SoftUniCSharpPractice1\RadiansTODegrees\bin\Debug\netcoreapp3.1\RadiansTODegrees.dll
+D:\SoftUniC#June21\SoftUniCSharpPractice1\RadiansTODegrees\bin\Debug\netcoreapp3.1\RadiansTODegrees.pdb
+D:\SoftUniC#June21\SoftUniCSharpPractice1\RadiansTODegrees\obj\Debug\netcoreapp3.1\RadiansTODegrees.csprojAssemblyReference.cache
+D:\SoftUniC#June21\SoftUniCSharpPractice1\RadiansTODegrees\obj\Debug\netcoreapp3.1\RadiansTODegrees.AssemblyInfoInputs.cache
+D:\SoftUniC#June21\SoftUniCSharpPractice1\RadiansTODegrees\obj\Debug\netcoreapp3.1\RadiansTODegrees.AssemblyInfo.cs
+D:\SoftUniC#June21\SoftUniCSharpPractice1\RadiansTODegrees\obj\Debug\netcoreapp3.1\RadiansTODegrees.csproj.CoreCompileInputs.cache
+D:\SoftUniC#June21\SoftUniCSharpPractice1\RadiansTODegrees\obj\Debug\netcoreapp3.1\RadiansTODegrees.dll
+D:\SoftUniC#June21\SoftUniCSharpPractice1\RadiansTODegrees\obj\Debug\netcoreapp3.1\RadiansTODegrees.pdb
+D:\SoftUniC#June21\SoftUniCSharpPractice1\RadiansTODegrees\obj\Debug\netcoreapp3.1\RadiansTODegrees.genruntimeconfig.cache

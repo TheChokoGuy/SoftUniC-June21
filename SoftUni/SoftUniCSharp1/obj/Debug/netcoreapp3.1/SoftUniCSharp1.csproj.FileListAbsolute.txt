@@ -1,0 +1,13 @@
+D:\SoftUniC#June21\SoftUni\SoftUniCSharp1\bin\Debug\netcoreapp3.1\SoftUniCSharp1.exe
+D:\SoftUniC#June21\SoftUni\SoftUniCSharp1\bin\Debug\netcoreapp3.1\SoftUniCSharp1.deps.json
+D:\SoftUniC#June21\SoftUni\SoftUniCSharp1\bin\Debug\netcoreapp3.1\SoftUniCSharp1.runtimeconfig.json
+D:\SoftUniC#June21\SoftUni\SoftUniCSharp1\bin\Debug\netcoreapp3.1\SoftUniCSharp1.runtimeconfig.dev.json
+D:\SoftUniC#June21\SoftUni\SoftUniCSharp1\bin\Debug\netcoreapp3.1\SoftUniCSharp1.dll
+D:\SoftUniC#June21\SoftUni\SoftUniCSharp1\bin\Debug\netcoreapp3.1\SoftUniCSharp1.pdb
+D:\SoftUniC#June21\SoftUni\SoftUniCSharp1\obj\Debug\netcoreapp3.1\SoftUniCSharp1.csprojAssemblyReference.cache
+D:\SoftUniC#June21\SoftUni\SoftUniCSharp1\obj\Debug\netcoreapp3.1\SoftUniCSharp1.AssemblyInfoInputs.cache
+D:\SoftUniC#June21\SoftUni\SoftUniCSharp1\obj\Debug\netcoreapp3.1\SoftUniCSharp1.AssemblyInfo.cs
+D:\SoftUniC#June21\SoftUni\SoftUniCSharp1\obj\Debug\netcoreapp3.1\SoftUniCSharp1.csproj.CoreCompileInputs.cache
+D:\SoftUniC#June21\SoftUni\SoftUniCSharp1\obj\Debug\netcoreapp3.1\SoftUniCSharp1.dll
+D:\SoftUniC#June21\SoftUni\SoftUniCSharp1\obj\Debug\netcoreapp3.1\SoftUniCSharp1.pdb
+D:\SoftUniC#June21\SoftUni\SoftUniCSharp1\obj\Debug\netcoreapp3.1\SoftUniCSharp1.genruntimeconfig.cache

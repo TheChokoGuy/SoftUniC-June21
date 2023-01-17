@@ -1,0 +1,13 @@
+D:\SoftUniC#June21\NestedLoops\NestedLoops\bin\Debug\netcoreapp3.1\NestedLoops.exe
+D:\SoftUniC#June21\NestedLoops\NestedLoops\bin\Debug\netcoreapp3.1\NestedLoops.deps.json
+D:\SoftUniC#June21\NestedLoops\NestedLoops\bin\Debug\netcoreapp3.1\NestedLoops.runtimeconfig.json
+D:\SoftUniC#June21\NestedLoops\NestedLoops\bin\Debug\netcoreapp3.1\NestedLoops.runtimeconfig.dev.json
+D:\SoftUniC#June21\NestedLoops\NestedLoops\bin\Debug\netcoreapp3.1\NestedLoops.dll
+D:\SoftUniC#June21\NestedLoops\NestedLoops\bin\Debug\netcoreapp3.1\NestedLoops.pdb
+D:\SoftUniC#June21\NestedLoops\NestedLoops\obj\Debug\netcoreapp3.1\NestedLoops.csprojAssemblyReference.cache
+D:\SoftUniC#June21\NestedLoops\NestedLoops\obj\Debug\netcoreapp3.1\NestedLoops.AssemblyInfoInputs.cache
+D:\SoftUniC#June21\NestedLoops\NestedLoops\obj\Debug\netcoreapp3.1\NestedLoops.AssemblyInfo.cs
+D:\SoftUniC#June21\NestedLoops\NestedLoops\obj\Debug\netcoreapp3.1\NestedLoops.csproj.CoreCompileInputs.cache
+D:\SoftUniC#June21\NestedLoops\NestedLoops\obj\Debug\netcoreapp3.1\NestedLoops.dll
+D:\SoftUniC#June21\NestedLoops\NestedLoops\obj\Debug\netcoreapp3.1\NestedLoops.pdb
+D:\SoftUniC#June21\NestedLoops\NestedLoops\obj\Debug\netcoreapp3.1\NestedLoops.genruntimeconfig.cache

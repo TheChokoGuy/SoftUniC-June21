@@ -1,0 +1,12 @@
+D:\SoftUniC#June21\WhileLoop\Moving\bin\Debug\netcoreapp3.1\Moving.exe
+D:\SoftUniC#June21\WhileLoop\Moving\bin\Debug\netcoreapp3.1\Moving.deps.json
+D:\SoftUniC#June21\WhileLoop\Moving\bin\Debug\netcoreapp3.1\Moving.runtimeconfig.json
+D:\SoftUniC#June21\WhileLoop\Moving\bin\Debug\netcoreapp3.1\Moving.runtimeconfig.dev.json
+D:\SoftUniC#June21\WhileLoop\Moving\bin\Debug\netcoreapp3.1\Moving.dll
+D:\SoftUniC#June21\WhileLoop\Moving\bin\Debug\netcoreapp3.1\Moving.pdb
+D:\SoftUniC#June21\WhileLoop\Moving\obj\Debug\netcoreapp3.1\Moving.AssemblyInfoInputs.cache
+D:\SoftUniC#June21\WhileLoop\Moving\obj\Debug\netcoreapp3.1\Moving.AssemblyInfo.cs
+D:\SoftUniC#June21\WhileLoop\Moving\obj\Debug\netcoreapp3.1\Moving.csproj.CoreCompileInputs.cache
+D:\SoftUniC#June21\WhileLoop\Moving\obj\Debug\netcoreapp3.1\Moving.dll
+D:\SoftUniC#June21\WhileLoop\Moving\obj\Debug\netcoreapp3.1\Moving.pdb
+D:\SoftUniC#June21\WhileLoop\Moving\obj\Debug\netcoreapp3.1\Moving.genruntimeconfig.cache

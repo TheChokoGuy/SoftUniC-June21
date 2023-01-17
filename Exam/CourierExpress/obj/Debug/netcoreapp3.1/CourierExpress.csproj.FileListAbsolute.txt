@@ -1,0 +1,13 @@
+D:\SoftUniC#June21\Exam\CourierExpress\bin\Debug\netcoreapp3.1\CourierExpress.exe
+D:\SoftUniC#June21\Exam\CourierExpress\bin\Debug\netcoreapp3.1\CourierExpress.deps.json
+D:\SoftUniC#June21\Exam\CourierExpress\bin\Debug\netcoreapp3.1\CourierExpress.runtimeconfig.json
+D:\SoftUniC#June21\Exam\CourierExpress\bin\Debug\netcoreapp3.1\CourierExpress.runtimeconfig.dev.json
+D:\SoftUniC#June21\Exam\CourierExpress\bin\Debug\netcoreapp3.1\CourierExpress.dll
+D:\SoftUniC#June21\Exam\CourierExpress\bin\Debug\netcoreapp3.1\CourierExpress.pdb
+D:\SoftUniC#June21\Exam\CourierExpress\obj\Debug\netcoreapp3.1\CourierExpress.csprojAssemblyReference.cache
+D:\SoftUniC#June21\Exam\CourierExpress\obj\Debug\netcoreapp3.1\CourierExpress.AssemblyInfoInputs.cache
+D:\SoftUniC#June21\Exam\CourierExpress\obj\Debug\netcoreapp3.1\CourierExpress.AssemblyInfo.cs
+D:\SoftUniC#June21\Exam\CourierExpress\obj\Debug\netcoreapp3.1\CourierExpress.csproj.CoreCompileInputs.cache
+D:\SoftUniC#June21\Exam\CourierExpress\obj\Debug\netcoreapp3.1\CourierExpress.dll
+D:\SoftUniC#June21\Exam\CourierExpress\obj\Debug\netcoreapp3.1\CourierExpress.pdb
+D:\SoftUniC#June21\Exam\CourierExpress\obj\Debug\netcoreapp3.1\CourierExpress.genruntimeconfig.cache

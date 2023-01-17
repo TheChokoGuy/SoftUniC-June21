@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "s5mmEjqCx/vx7KyTU1/i5Dcd5991NCrLfxdMCTLdtSYNec3wy2PJ9+6hc/hnIcpBuRjF+ewTpTTMXxHR6OM3OA==",
+  "success": true,
+  "projectFilePath": "D:\\Softuni\\SoftUniC#June21\\ExamPrep\\BestPlayer\\BestPlayer.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\gabig\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.22\\microsoft.netcore.app.host.win-x64.3.1.22.nupkg.sha512"
+  ],
+  "logs": []
+}

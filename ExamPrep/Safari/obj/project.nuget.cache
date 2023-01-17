@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "aVt3aYHMurXlRVOV7F9QMBJ2zZT6otimAx/2GNbWakzXGTETmepfKWDZR7V8L16KwRb86rstn/rHrW473tyteg==",
+  "success": true,
+  "projectFilePath": "D:\\Softuni\\SoftUniC#June21\\ExamPrep\\Safari\\Safari.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\gabig\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.22\\microsoft.netcore.app.host.win-x64.3.1.22.nupkg.sha512"
+  ],
+  "logs": []
+}

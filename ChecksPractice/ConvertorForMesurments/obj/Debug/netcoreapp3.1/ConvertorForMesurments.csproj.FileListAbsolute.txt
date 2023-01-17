@@ -1,0 +1,12 @@
+D:\SoftUniC#June21\ChecksPractice\ConvertorForMesurments\obj\Debug\netcoreapp3.1\ConvertorForMesurments.AssemblyInfoInputs.cache
+D:\SoftUniC#June21\ChecksPractice\ConvertorForMesurments\obj\Debug\netcoreapp3.1\ConvertorForMesurments.AssemblyInfo.cs
+D:\SoftUniC#June21\ChecksPractice\ConvertorForMesurments\obj\Debug\netcoreapp3.1\ConvertorForMesurments.csproj.CoreCompileInputs.cache
+D:\SoftUniC#June21\ChecksPractice\ConvertorForMesurments\bin\Debug\netcoreapp3.1\ConvertorForMesurments.exe
+D:\SoftUniC#June21\ChecksPractice\ConvertorForMesurments\bin\Debug\netcoreapp3.1\ConvertorForMesurments.deps.json
+D:\SoftUniC#June21\ChecksPractice\ConvertorForMesurments\bin\Debug\netcoreapp3.1\ConvertorForMesurments.runtimeconfig.json
+D:\SoftUniC#June21\ChecksPractice\ConvertorForMesurments\bin\Debug\netcoreapp3.1\ConvertorForMesurments.runtimeconfig.dev.json
+D:\SoftUniC#June21\ChecksPractice\ConvertorForMesurments\bin\Debug\netcoreapp3.1\ConvertorForMesurments.dll
+D:\SoftUniC#June21\ChecksPractice\ConvertorForMesurments\bin\Debug\netcoreapp3.1\ConvertorForMesurments.pdb
+D:\SoftUniC#June21\ChecksPractice\ConvertorForMesurments\obj\Debug\netcoreapp3.1\ConvertorForMesurments.dll
+D:\SoftUniC#June21\ChecksPractice\ConvertorForMesurments\obj\Debug\netcoreapp3.1\ConvertorForMesurments.pdb
+D:\SoftUniC#June21\ChecksPractice\ConvertorForMesurments\obj\Debug\netcoreapp3.1\ConvertorForMesurments.genruntimeconfig.cache

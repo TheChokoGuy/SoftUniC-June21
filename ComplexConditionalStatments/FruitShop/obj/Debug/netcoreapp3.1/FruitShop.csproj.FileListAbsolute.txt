@@ -1,0 +1,12 @@
+D:\SoftUniC#June21\ComplexConditionalStatments\FruitShop\bin\Debug\netcoreapp3.1\FruitShop.exe
+D:\SoftUniC#June21\ComplexConditionalStatments\FruitShop\bin\Debug\netcoreapp3.1\FruitShop.deps.json
+D:\SoftUniC#June21\ComplexConditionalStatments\FruitShop\bin\Debug\netcoreapp3.1\FruitShop.runtimeconfig.json
+D:\SoftUniC#June21\ComplexConditionalStatments\FruitShop\bin\Debug\netcoreapp3.1\FruitShop.runtimeconfig.dev.json
+D:\SoftUniC#June21\ComplexConditionalStatments\FruitShop\bin\Debug\netcoreapp3.1\FruitShop.dll
+D:\SoftUniC#June21\ComplexConditionalStatments\FruitShop\bin\Debug\netcoreapp3.1\FruitShop.pdb
+D:\SoftUniC#June21\ComplexConditionalStatments\FruitShop\obj\Debug\netcoreapp3.1\FruitShop.AssemblyInfoInputs.cache
+D:\SoftUniC#June21\ComplexConditionalStatments\FruitShop\obj\Debug\netcoreapp3.1\FruitShop.AssemblyInfo.cs
+D:\SoftUniC#June21\ComplexConditionalStatments\FruitShop\obj\Debug\netcoreapp3.1\FruitShop.csproj.CoreCompileInputs.cache
+D:\SoftUniC#June21\ComplexConditionalStatments\FruitShop\obj\Debug\netcoreapp3.1\FruitShop.dll
+D:\SoftUniC#June21\ComplexConditionalStatments\FruitShop\obj\Debug\netcoreapp3.1\FruitShop.pdb
+D:\SoftUniC#June21\ComplexConditionalStatments\FruitShop\obj\Debug\netcoreapp3.1\FruitShop.genruntimeconfig.cache

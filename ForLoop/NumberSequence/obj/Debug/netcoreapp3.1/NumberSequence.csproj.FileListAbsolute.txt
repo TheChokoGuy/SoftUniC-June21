@@ -1,0 +1,12 @@
+D:\SoftUniC#June21\ForLoop\NumberSequence\bin\Debug\netcoreapp3.1\NumberSequence.exe
+D:\SoftUniC#June21\ForLoop\NumberSequence\bin\Debug\netcoreapp3.1\NumberSequence.deps.json
+D:\SoftUniC#June21\ForLoop\NumberSequence\bin\Debug\netcoreapp3.1\NumberSequence.runtimeconfig.json
+D:\SoftUniC#June21\ForLoop\NumberSequence\bin\Debug\netcoreapp3.1\NumberSequence.runtimeconfig.dev.json
+D:\SoftUniC#June21\ForLoop\NumberSequence\bin\Debug\netcoreapp3.1\NumberSequence.dll
+D:\SoftUniC#June21\ForLoop\NumberSequence\bin\Debug\netcoreapp3.1\NumberSequence.pdb
+D:\SoftUniC#June21\ForLoop\NumberSequence\obj\Debug\netcoreapp3.1\NumberSequence.AssemblyInfoInputs.cache
+D:\SoftUniC#June21\ForLoop\NumberSequence\obj\Debug\netcoreapp3.1\NumberSequence.AssemblyInfo.cs
+D:\SoftUniC#June21\ForLoop\NumberSequence\obj\Debug\netcoreapp3.1\NumberSequence.csproj.CoreCompileInputs.cache
+D:\SoftUniC#June21\ForLoop\NumberSequence\obj\Debug\netcoreapp3.1\NumberSequence.dll
+D:\SoftUniC#June21\ForLoop\NumberSequence\obj\Debug\netcoreapp3.1\NumberSequence.pdb
+D:\SoftUniC#June21\ForLoop\NumberSequence\obj\Debug\netcoreapp3.1\NumberSequence.genruntimeconfig.cache

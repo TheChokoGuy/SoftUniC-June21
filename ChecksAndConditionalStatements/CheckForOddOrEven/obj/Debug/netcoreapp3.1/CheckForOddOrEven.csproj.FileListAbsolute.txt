@@ -1,0 +1,13 @@
+D:\SoftUniC#June21\ChecksAndConditionalStatements\CheckForOddOrEven\bin\Debug\netcoreapp3.1\CheckForOddOrEven.exe
+D:\SoftUniC#June21\ChecksAndConditionalStatements\CheckForOddOrEven\bin\Debug\netcoreapp3.1\CheckForOddOrEven.deps.json
+D:\SoftUniC#June21\ChecksAndConditionalStatements\CheckForOddOrEven\bin\Debug\netcoreapp3.1\CheckForOddOrEven.runtimeconfig.json
+D:\SoftUniC#June21\ChecksAndConditionalStatements\CheckForOddOrEven\bin\Debug\netcoreapp3.1\CheckForOddOrEven.runtimeconfig.dev.json
+D:\SoftUniC#June21\ChecksAndConditionalStatements\CheckForOddOrEven\bin\Debug\netcoreapp3.1\CheckForOddOrEven.dll
+D:\SoftUniC#June21\ChecksAndConditionalStatements\CheckForOddOrEven\bin\Debug\netcoreapp3.1\CheckForOddOrEven.pdb
+D:\SoftUniC#June21\ChecksAndConditionalStatements\CheckForOddOrEven\obj\Debug\netcoreapp3.1\CheckForOddOrEven.csprojAssemblyReference.cache
+D:\SoftUniC#June21\ChecksAndConditionalStatements\CheckForOddOrEven\obj\Debug\netcoreapp3.1\CheckForOddOrEven.AssemblyInfoInputs.cache
+D:\SoftUniC#June21\ChecksAndConditionalStatements\CheckForOddOrEven\obj\Debug\netcoreapp3.1\CheckForOddOrEven.AssemblyInfo.cs
+D:\SoftUniC#June21\ChecksAndConditionalStatements\CheckForOddOrEven\obj\Debug\netcoreapp3.1\CheckForOddOrEven.csproj.CoreCompileInputs.cache
+D:\SoftUniC#June21\ChecksAndConditionalStatements\CheckForOddOrEven\obj\Debug\netcoreapp3.1\CheckForOddOrEven.dll
+D:\SoftUniC#June21\ChecksAndConditionalStatements\CheckForOddOrEven\obj\Debug\netcoreapp3.1\CheckForOddOrEven.pdb
+D:\SoftUniC#June21\ChecksAndConditionalStatements\CheckForOddOrEven\obj\Debug\netcoreapp3.1\CheckForOddOrEven.genruntimeconfig.cache

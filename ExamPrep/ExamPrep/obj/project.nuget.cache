@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "jQtHijEoGdNjA+CavoEITROUXyWK7OcLuOEYND/Lx4NWJCcALFQ280+IpFdU/765DioZk3mSGscIK/qmQUpFZg==",
+  "success": true,
+  "projectFilePath": "D:\\Softuni\\SoftUniC#June21\\ExamPrep\\ExamPrep\\ExamPrep.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\gabig\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.22\\microsoft.netcore.app.host.win-x64.3.1.22.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,12 @@
+D:\SoftUniC#June21\SoftUniCSharpPractice1\UsdToBG\bin\Debug\netcoreapp3.1\UsdToBG.exe
+D:\SoftUniC#June21\SoftUniCSharpPractice1\UsdToBG\bin\Debug\netcoreapp3.1\UsdToBG.deps.json
+D:\SoftUniC#June21\SoftUniCSharpPractice1\UsdToBG\bin\Debug\netcoreapp3.1\UsdToBG.runtimeconfig.json
+D:\SoftUniC#June21\SoftUniCSharpPractice1\UsdToBG\bin\Debug\netcoreapp3.1\UsdToBG.runtimeconfig.dev.json
+D:\SoftUniC#June21\SoftUniCSharpPractice1\UsdToBG\bin\Debug\netcoreapp3.1\UsdToBG.dll
+D:\SoftUniC#June21\SoftUniCSharpPractice1\UsdToBG\bin\Debug\netcoreapp3.1\UsdToBG.pdb
+D:\SoftUniC#June21\SoftUniCSharpPractice1\UsdToBG\obj\Debug\netcoreapp3.1\UsdToBG.AssemblyInfoInputs.cache
+D:\SoftUniC#June21\SoftUniCSharpPractice1\UsdToBG\obj\Debug\netcoreapp3.1\UsdToBG.AssemblyInfo.cs
+D:\SoftUniC#June21\SoftUniCSharpPractice1\UsdToBG\obj\Debug\netcoreapp3.1\UsdToBG.csproj.CoreCompileInputs.cache
+D:\SoftUniC#June21\SoftUniCSharpPractice1\UsdToBG\obj\Debug\netcoreapp3.1\UsdToBG.dll
+D:\SoftUniC#June21\SoftUniCSharpPractice1\UsdToBG\obj\Debug\netcoreapp3.1\UsdToBG.pdb
+D:\SoftUniC#June21\SoftUniCSharpPractice1\UsdToBG\obj\Debug\netcoreapp3.1\UsdToBG.genruntimeconfig.cache

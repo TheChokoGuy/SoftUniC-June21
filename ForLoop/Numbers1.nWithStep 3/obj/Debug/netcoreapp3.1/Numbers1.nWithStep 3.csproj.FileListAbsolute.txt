@@ -1,0 +1,13 @@
+D:\SoftUniC#June21\ForLoop\Numbers1.nWithStep 3\bin\Debug\netcoreapp3.1\Numbers1.nWithStep 3.exe
+D:\SoftUniC#June21\ForLoop\Numbers1.nWithStep 3\bin\Debug\netcoreapp3.1\Numbers1.nWithStep 3.deps.json
+D:\SoftUniC#June21\ForLoop\Numbers1.nWithStep 3\bin\Debug\netcoreapp3.1\Numbers1.nWithStep 3.runtimeconfig.json
+D:\SoftUniC#June21\ForLoop\Numbers1.nWithStep 3\bin\Debug\netcoreapp3.1\Numbers1.nWithStep 3.runtimeconfig.dev.json
+D:\SoftUniC#June21\ForLoop\Numbers1.nWithStep 3\bin\Debug\netcoreapp3.1\Numbers1.nWithStep 3.dll
+D:\SoftUniC#June21\ForLoop\Numbers1.nWithStep 3\bin\Debug\netcoreapp3.1\Numbers1.nWithStep 3.pdb
+D:\SoftUniC#June21\ForLoop\Numbers1.nWithStep 3\obj\Debug\netcoreapp3.1\Numbers1.nWithStep 3.csprojAssemblyReference.cache
+D:\SoftUniC#June21\ForLoop\Numbers1.nWithStep 3\obj\Debug\netcoreapp3.1\Numbers1.nWithStep 3.AssemblyInfoInputs.cache
+D:\SoftUniC#June21\ForLoop\Numbers1.nWithStep 3\obj\Debug\netcoreapp3.1\Numbers1.nWithStep 3.AssemblyInfo.cs
+D:\SoftUniC#June21\ForLoop\Numbers1.nWithStep 3\obj\Debug\netcoreapp3.1\Numbers1.nWithStep 3.csproj.CoreCompileInputs.cache
+D:\SoftUniC#June21\ForLoop\Numbers1.nWithStep 3\obj\Debug\netcoreapp3.1\Numbers1.nWithStep 3.dll
+D:\SoftUniC#June21\ForLoop\Numbers1.nWithStep 3\obj\Debug\netcoreapp3.1\Numbers1.nWithStep 3.pdb
+D:\SoftUniC#June21\ForLoop\Numbers1.nWithStep 3\obj\Debug\netcoreapp3.1\Numbers1.nWithStep 3.genruntimeconfig.cache

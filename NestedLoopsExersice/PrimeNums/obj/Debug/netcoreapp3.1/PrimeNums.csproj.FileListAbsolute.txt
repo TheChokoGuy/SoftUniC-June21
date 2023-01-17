@@ -1,0 +1,12 @@
+D:\SoftUniC#June21\NestedLoopsExersice\PrimeNums\bin\Debug\netcoreapp3.1\PrimeNums.exe
+D:\SoftUniC#June21\NestedLoopsExersice\PrimeNums\bin\Debug\netcoreapp3.1\PrimeNums.deps.json
+D:\SoftUniC#June21\NestedLoopsExersice\PrimeNums\bin\Debug\netcoreapp3.1\PrimeNums.runtimeconfig.json
+D:\SoftUniC#June21\NestedLoopsExersice\PrimeNums\bin\Debug\netcoreapp3.1\PrimeNums.runtimeconfig.dev.json
+D:\SoftUniC#June21\NestedLoopsExersice\PrimeNums\bin\Debug\netcoreapp3.1\PrimeNums.dll
+D:\SoftUniC#June21\NestedLoopsExersice\PrimeNums\bin\Debug\netcoreapp3.1\PrimeNums.pdb
+D:\SoftUniC#June21\NestedLoopsExersice\PrimeNums\obj\Debug\netcoreapp3.1\PrimeNums.AssemblyInfoInputs.cache
+D:\SoftUniC#June21\NestedLoopsExersice\PrimeNums\obj\Debug\netcoreapp3.1\PrimeNums.AssemblyInfo.cs
+D:\SoftUniC#June21\NestedLoopsExersice\PrimeNums\obj\Debug\netcoreapp3.1\PrimeNums.csproj.CoreCompileInputs.cache
+D:\SoftUniC#June21\NestedLoopsExersice\PrimeNums\obj\Debug\netcoreapp3.1\PrimeNums.dll
+D:\SoftUniC#June21\NestedLoopsExersice\PrimeNums\obj\Debug\netcoreapp3.1\PrimeNums.pdb
+D:\SoftUniC#June21\NestedLoopsExersice\PrimeNums\obj\Debug\netcoreapp3.1\PrimeNums.genruntimeconfig.cache

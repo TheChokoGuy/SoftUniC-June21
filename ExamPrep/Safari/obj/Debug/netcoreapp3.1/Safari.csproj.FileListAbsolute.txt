@@ -1,0 +1,13 @@
+D:\SoftUniC#June21\ExamPrep\Safari\bin\Debug\netcoreapp3.1\Safari.exe
+D:\SoftUniC#June21\ExamPrep\Safari\bin\Debug\netcoreapp3.1\Safari.deps.json
+D:\SoftUniC#June21\ExamPrep\Safari\bin\Debug\netcoreapp3.1\Safari.runtimeconfig.json
+D:\SoftUniC#June21\ExamPrep\Safari\bin\Debug\netcoreapp3.1\Safari.runtimeconfig.dev.json
+D:\SoftUniC#June21\ExamPrep\Safari\bin\Debug\netcoreapp3.1\Safari.dll
+D:\SoftUniC#June21\ExamPrep\Safari\bin\Debug\netcoreapp3.1\Safari.pdb
+D:\SoftUniC#June21\ExamPrep\Safari\obj\Debug\netcoreapp3.1\Safari.csprojAssemblyReference.cache
+D:\SoftUniC#June21\ExamPrep\Safari\obj\Debug\netcoreapp3.1\Safari.AssemblyInfoInputs.cache
+D:\SoftUniC#June21\ExamPrep\Safari\obj\Debug\netcoreapp3.1\Safari.AssemblyInfo.cs
+D:\SoftUniC#June21\ExamPrep\Safari\obj\Debug\netcoreapp3.1\Safari.csproj.CoreCompileInputs.cache
+D:\SoftUniC#June21\ExamPrep\Safari\obj\Debug\netcoreapp3.1\Safari.dll
+D:\SoftUniC#June21\ExamPrep\Safari\obj\Debug\netcoreapp3.1\Safari.pdb
+D:\SoftUniC#June21\ExamPrep\Safari\obj\Debug\netcoreapp3.1\Safari.genruntimeconfig.cache

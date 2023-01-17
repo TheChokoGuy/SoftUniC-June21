@@ -1,0 +1,13 @@
+D:\SoftUniC#June21\ForLoop\Numbers N.1\bin\Debug\netcoreapp3.1\Numbers N.1.exe
+D:\SoftUniC#June21\ForLoop\Numbers N.1\bin\Debug\netcoreapp3.1\Numbers N.1.deps.json
+D:\SoftUniC#June21\ForLoop\Numbers N.1\bin\Debug\netcoreapp3.1\Numbers N.1.runtimeconfig.json
+D:\SoftUniC#June21\ForLoop\Numbers N.1\bin\Debug\netcoreapp3.1\Numbers N.1.runtimeconfig.dev.json
+D:\SoftUniC#June21\ForLoop\Numbers N.1\bin\Debug\netcoreapp3.1\Numbers N.1.dll
+D:\SoftUniC#June21\ForLoop\Numbers N.1\bin\Debug\netcoreapp3.1\Numbers N.1.pdb
+D:\SoftUniC#June21\ForLoop\Numbers N.1\obj\Debug\netcoreapp3.1\Numbers N.1.csprojAssemblyReference.cache
+D:\SoftUniC#June21\ForLoop\Numbers N.1\obj\Debug\netcoreapp3.1\Numbers N.1.AssemblyInfoInputs.cache
+D:\SoftUniC#June21\ForLoop\Numbers N.1\obj\Debug\netcoreapp3.1\Numbers N.1.AssemblyInfo.cs
+D:\SoftUniC#June21\ForLoop\Numbers N.1\obj\Debug\netcoreapp3.1\Numbers N.1.csproj.CoreCompileInputs.cache
+D:\SoftUniC#June21\ForLoop\Numbers N.1\obj\Debug\netcoreapp3.1\Numbers N.1.dll
+D:\SoftUniC#June21\ForLoop\Numbers N.1\obj\Debug\netcoreapp3.1\Numbers N.1.pdb
+D:\SoftUniC#June21\ForLoop\Numbers N.1\obj\Debug\netcoreapp3.1\Numbers N.1.genruntimeconfig.cache

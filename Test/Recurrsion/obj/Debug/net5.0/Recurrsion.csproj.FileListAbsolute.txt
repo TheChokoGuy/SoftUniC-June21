@@ -1,0 +1,16 @@
+D:\SoftUniC#June21\Test\Recurrsion\bin\Debug\net5.0\Recurrsion.exe
+D:\SoftUniC#June21\Test\Recurrsion\bin\Debug\net5.0\Recurrsion.deps.json
+D:\SoftUniC#June21\Test\Recurrsion\bin\Debug\net5.0\Recurrsion.runtimeconfig.json
+D:\SoftUniC#June21\Test\Recurrsion\bin\Debug\net5.0\Recurrsion.runtimeconfig.dev.json
+D:\SoftUniC#June21\Test\Recurrsion\bin\Debug\net5.0\Recurrsion.dll
+D:\SoftUniC#June21\Test\Recurrsion\bin\Debug\net5.0\ref\Recurrsion.dll
+D:\SoftUniC#June21\Test\Recurrsion\bin\Debug\net5.0\Recurrsion.pdb
+D:\SoftUniC#June21\Test\Recurrsion\obj\Debug\net5.0\Recurrsion.csproj.AssemblyReference.cache
+D:\SoftUniC#June21\Test\Recurrsion\obj\Debug\net5.0\Recurrsion.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUniC#June21\Test\Recurrsion\obj\Debug\net5.0\Recurrsion.AssemblyInfoInputs.cache
+D:\SoftUniC#June21\Test\Recurrsion\obj\Debug\net5.0\Recurrsion.AssemblyInfo.cs
+D:\SoftUniC#June21\Test\Recurrsion\obj\Debug\net5.0\Recurrsion.csproj.CoreCompileInputs.cache
+D:\SoftUniC#June21\Test\Recurrsion\obj\Debug\net5.0\Recurrsion.dll
+D:\SoftUniC#June21\Test\Recurrsion\obj\Debug\net5.0\ref\Recurrsion.dll
+D:\SoftUniC#June21\Test\Recurrsion\obj\Debug\net5.0\Recurrsion.pdb
+D:\SoftUniC#June21\Test\Recurrsion\obj\Debug\net5.0\Recurrsion.genruntimeconfig.cache

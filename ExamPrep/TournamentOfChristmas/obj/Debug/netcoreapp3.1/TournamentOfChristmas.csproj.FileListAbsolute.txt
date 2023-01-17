@@ -1,0 +1,12 @@
+D:\SoftUniC#June21\ExamPrep\TournamentOfChristmas\bin\Debug\netcoreapp3.1\TournamentOfChristmas.exe
+D:\SoftUniC#June21\ExamPrep\TournamentOfChristmas\bin\Debug\netcoreapp3.1\TournamentOfChristmas.deps.json
+D:\SoftUniC#June21\ExamPrep\TournamentOfChristmas\bin\Debug\netcoreapp3.1\TournamentOfChristmas.runtimeconfig.json
+D:\SoftUniC#June21\ExamPrep\TournamentOfChristmas\bin\Debug\netcoreapp3.1\TournamentOfChristmas.runtimeconfig.dev.json
+D:\SoftUniC#June21\ExamPrep\TournamentOfChristmas\bin\Debug\netcoreapp3.1\TournamentOfChristmas.dll
+D:\SoftUniC#June21\ExamPrep\TournamentOfChristmas\bin\Debug\netcoreapp3.1\TournamentOfChristmas.pdb
+D:\SoftUniC#June21\ExamPrep\TournamentOfChristmas\obj\Debug\netcoreapp3.1\TournamentOfChristmas.AssemblyInfoInputs.cache
+D:\SoftUniC#June21\ExamPrep\TournamentOfChristmas\obj\Debug\netcoreapp3.1\TournamentOfChristmas.AssemblyInfo.cs
+D:\SoftUniC#June21\ExamPrep\TournamentOfChristmas\obj\Debug\netcoreapp3.1\TournamentOfChristmas.csproj.CoreCompileInputs.cache
+D:\SoftUniC#June21\ExamPrep\TournamentOfChristmas\obj\Debug\netcoreapp3.1\TournamentOfChristmas.dll
+D:\SoftUniC#June21\ExamPrep\TournamentOfChristmas\obj\Debug\netcoreapp3.1\TournamentOfChristmas.pdb
+D:\SoftUniC#June21\ExamPrep\TournamentOfChristmas\obj\Debug\netcoreapp3.1\TournamentOfChristmas.genruntimeconfig.cache

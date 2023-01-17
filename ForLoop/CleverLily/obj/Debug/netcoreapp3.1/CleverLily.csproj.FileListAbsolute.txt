@@ -1,0 +1,13 @@
+D:\SoftUniC#June21\ForLoop\CleverLily\bin\Debug\netcoreapp3.1\CleverLily.exe
+D:\SoftUniC#June21\ForLoop\CleverLily\bin\Debug\netcoreapp3.1\CleverLily.deps.json
+D:\SoftUniC#June21\ForLoop\CleverLily\bin\Debug\netcoreapp3.1\CleverLily.runtimeconfig.json
+D:\SoftUniC#June21\ForLoop\CleverLily\bin\Debug\netcoreapp3.1\CleverLily.runtimeconfig.dev.json
+D:\SoftUniC#June21\ForLoop\CleverLily\bin\Debug\netcoreapp3.1\CleverLily.dll
+D:\SoftUniC#June21\ForLoop\CleverLily\bin\Debug\netcoreapp3.1\CleverLily.pdb
+D:\SoftUniC#June21\ForLoop\CleverLily\obj\Debug\netcoreapp3.1\CleverLily.csprojAssemblyReference.cache
+D:\SoftUniC#June21\ForLoop\CleverLily\obj\Debug\netcoreapp3.1\CleverLily.AssemblyInfoInputs.cache
+D:\SoftUniC#June21\ForLoop\CleverLily\obj\Debug\netcoreapp3.1\CleverLily.AssemblyInfo.cs
+D:\SoftUniC#June21\ForLoop\CleverLily\obj\Debug\netcoreapp3.1\CleverLily.csproj.CoreCompileInputs.cache
+D:\SoftUniC#June21\ForLoop\CleverLily\obj\Debug\netcoreapp3.1\CleverLily.dll
+D:\SoftUniC#June21\ForLoop\CleverLily\obj\Debug\netcoreapp3.1\CleverLily.pdb
+D:\SoftUniC#June21\ForLoop\CleverLily\obj\Debug\netcoreapp3.1\CleverLily.genruntimeconfig.cache
